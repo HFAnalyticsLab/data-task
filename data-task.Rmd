@@ -1,34 +1,162 @@
 ---
-title: "Task for data science internship"
-author: "The Health Foundation"
+title: "Task for Data Science internship"
+author: "The Health Foundation, Data Analytics"
 date: "`r Sys.Date()`"
-output: 
-  html_document:
-    code_folding: hide
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+    toc: true
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, echo=FALSE}
+#Global options
 knitr::opts_chunk$set(echo = TRUE)
+
+#Packages
+library(tidyverse)
+library(data.table)
+library(kableExtra)
+library(plotly)
+
+#Load data
+files <- list.files(path="Data/",pattern="*.csv") %>% paste0("Data/",.)
+amb_data_daily <- fread(files[1])
+amb_data_monthly <- fread(files[2])
+rtt_data <- fread(files[3])
 ```
 
-## Datasets
+## Instructions
 
-## R Markdown
+- Deadline
+- Submission guidelines
+- Etc
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Task 1: Daily ambulance arrivals
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+- First, explain to the candidate what the data is and what the columns mean
+- Then add questions here
 
-```{r cars}
-summary(cars)
+### Chart
+
+```{r task1.chart, echo=FALSE,warning=FALSE,fig.width=10,fig.height=5}
+chart1 <- amb_data_daily %>%
+  filter(!is.na(arrivals)) %>%
+  mutate(date=as.Date(date),
+         arrivals=as.numeric(arrivals)) %>% 
+  ggplot(., aes(x=date,
+                y=arrivals)) +
+  geom_line(colour="red", lwd=1,group=1) +
+  scale_x_date(date_breaks = "1 month", date_labels = "%b %y") +
+  scale_y_continuous(labels=scales::comma) +
+  labs(x="Date", y="Ambulance arrivals",
+       title="Ambulance arrivals",
+       subtitle="Source: NHS winter situation reports") +
+  theme_bw() +
+  theme(
+    axis.ticks=element_line(size=0.4),
+    plot.background=element_blank(),
+    panel.border=element_blank(),
+    axis.text.x=element_text(angle=45, hjust=1)
+  )
+
+ggplotly(chart1)
 ```
 
-## Including Plots
+[Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/amb-data-daily.csv) (Source: NHS England Urgent and Emergency Care Daily Situation Reports)
 
-You can also embed plots, for example:
+### Data
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r task1.data, echo=FALSE,warning=FALSE}
+amb_data_daily %>%
+  filter(!is.na(arrivals)) %>% 
+  kable %>%
+  kable_styling(bootstrap_options = c("striped", "hover")) %>%
+  row_spec(0, bold = T, color = "black", background = "white") %>% 
+  scroll_box(width = "100%", height = "400px")
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Task 2: Monthly ambulance indicators
+
+- First, explain to the candidate what the data is and what the columns mean
+- Then add questions here
+
+### Chart
+
+```{r task2.chart, echo=FALSE,warning=FALSE,fig.width=10,fig.height=5}
+chart2 <- amb_data_monthly %>%
+  filter(org_name=="England (Average of all regions)") %>%
+  pivot_longer(!c("date","org_name","metric"), names_to = "category", values_to = "response_time") %>%
+  ggplot(., aes(x=date, y=response_time, group=category, color=category)) +
+  facet_wrap(~ metric) +
+  geom_line() +
+  scale_x_date(date_breaks = "6 month", date_labels = "%b %y") +
+  scale_y_continuous(labels=scales::comma) +
+  labs(x="Date", y="Response time (minutes)",
+       title="Ambulance response times",
+       subtitle="Source: NHS England Ambulance Quality Indicators",
+       col="Emergency category") +
+  theme_bw() +
+  theme(
+    axis.ticks=element_line(size=0.4),
+    plot.background=element_blank(),
+    panel.border=element_blank(),
+    axis.text.x=element_text(angle=45, hjust=1)
+  )
+
+ggplotly(chart2)
+```
+
+[Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/amb-data.csv) (Source: NHS England Ambulance Quality Indicators)
+
+### Data
+
+```{r task2.data, echo=FALSE,warning=FALSE}
+amb_data_monthly %>%
+  filter(org_name=="England (Average of all regions)") %>% 
+  kable %>%
+  kable_styling(bootstrap_options = c("striped", "hover")) %>%
+  row_spec(0, bold = T, color = "black", background = "white") %>% 
+  scroll_box(width = "100%", height = "400px")
+```
+
+## Task 3: Elective care backlog
+
+- First, explain to the candidate what the data is and what the columns mean
+- Then add questions here
+
+### Chart
+
+```{r task3.chart, echo=FALSE,warning=FALSE,fig.width=10,fig.height=5}
+chart3 <- rtt_data %>%
+  ggplot(., aes(x=period, y=total, group=type, color=type)) +
+  facet_wrap(~ specialty, scales = "free_y") +
+  geom_line() +
+  scale_x_date(date_breaks = "6 month", date_labels = "%b %y") +
+  scale_y_continuous(labels=scales::comma) +
+  labs(x="Date", y="Number of patients",
+       title="Waiting list for elective procedures",
+       subtitle="Source: NHS England Referral to Treatment Waiting Times",
+       col="Patients") +
+  theme_bw() +
+  theme(
+    axis.ticks=element_line(size=0.4),
+    plot.background=element_blank(),
+    panel.border=element_blank(),
+    axis.text.x=element_text(angle=45, hjust=1)
+  )
+
+ggplotly(chart3)
+```
+
+[Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/rtt-data.csv) (Source: NHS England Consultant-led Referral to Treatment Waiting Times)
+
+### Data
+
+```{r task3.data, echo=FALSE,warning=FALSE}
+rtt_data %>% 
+  kable %>%
+  kable_styling(bootstrap_options = c("striped", "hover")) %>%
+  row_spec(0, bold = T, color = "black", background = "white") %>% 
+  scroll_box(width = "100%", height = "400px")
+```
