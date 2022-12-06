@@ -1,781 +1,781 @@
-period,rtt_small,specialty,total,type
-2018-04-01,complete,dermatology,74146,started treatment
-2018-04-01,complete,gastroenterology,58464,started treatment
-2018-04-01,complete,ophthalmology,136415,started treatment
-2018-04-01,complete,total,1294278,started treatment
-2018-04-01,complete,trauma & orthopaedics,143110,started treatment
-2018-04-01,incomplete,dermatology,208732,total waiting list
-2018-04-01,incomplete,gastroenterology,231152,total waiting list
-2018-04-01,incomplete,ophthalmology,519438,total waiting list
-2018-04-01,incomplete,total,4787787,total waiting list
-2018-04-01,incomplete,trauma & orthopaedics,640282,total waiting list
-2018-04-01,new,dermatology,93298,new on waiting list
-2018-04-01,new,gastroenterology,85988,new on waiting list
-2018-04-01,new,ophthalmology,159188,new on waiting list
-2018-04-01,new,total,1646372,new on waiting list
-2018-04-01,new,trauma & orthopaedics,168744,new on waiting list
-2019-04-01,complete,dermatology,77401,started treatment
-2019-04-01,complete,gastroenterology,59576,started treatment
-2019-04-01,complete,ophthalmology,138960,started treatment
-2019-04-01,complete,total,1331005,started treatment
-2019-04-01,complete,trauma & orthopaedics,151202,started treatment
-2019-04-01,incomplete,dermatology,220670,total waiting list
-2019-04-01,incomplete,gastroenterology,264398,total waiting list
-2019-04-01,incomplete,ophthalmology,566095,total waiting list
-2019-04-01,incomplete,total,5099733,total waiting list
-2019-04-01,incomplete,trauma & orthopaedics,671005,total waiting list
-2019-04-01,new,dermatology,94077,new on waiting list
-2019-04-01,new,gastroenterology,86449,new on waiting list
-2019-04-01,new,ophthalmology,161635,new on waiting list
-2019-04-01,new,total,1661737,new on waiting list
-2019-04-01,new,trauma & orthopaedics,181623,new on waiting list
-2020-04-01,complete,dermatology,34162,started treatment
-2020-04-01,complete,gastroenterology,24144,started treatment
-2020-04-01,complete,ophthalmology,35415,started treatment
-2020-04-01,complete,total,572179,started treatment
-2020-04-01,complete,trauma & orthopaedics,45313,started treatment
-2020-04-01,incomplete,dermatology,201413,total waiting list
-2020-04-01,incomplete,gastroenterology,233945,total waiting list
-2020-04-01,incomplete,ophthalmology,548209,total waiting list
-2020-04-01,incomplete,total,4808203,total waiting list
-2020-04-01,incomplete,trauma & orthopaedics,652742,total waiting list
-2020-04-01,new,dermatology,25489,new on waiting list
-2020-04-01,new,gastroenterology,26281,new on waiting list
-2020-04-01,new,ophthalmology,33634,new on waiting list
-2020-04-01,new,total,493749,new on waiting list
-2020-04-01,new,trauma & orthopaedics,34407,new on waiting list
-2021-04-01,complete,dermatology,74498,started treatment
-2021-04-01,complete,gastroenterology,53544,started treatment
-2021-04-01,complete,ophthalmology,124273,started treatment
-2021-04-01,complete,total,1163179,started treatment
-2021-04-01,complete,trauma and orthopaedic,110211,started treatment
-2021-04-01,incomplete,dermatology,240366,total waiting list
-2021-04-01,incomplete,gastroenterology,340475,total waiting list
-2021-04-01,incomplete,ophthalmology,655677,total waiting list
-2021-04-01,incomplete,total,6165488,total waiting list
-2021-04-01,incomplete,trauma and orthopaedic,885035,total waiting list
-2021-04-01,new,dermatology,96812,new on waiting list
-2021-04-01,new,gastroenterology,84445,new on waiting list
-2021-04-01,new,ophthalmology,148857,new on waiting list
-2021-04-01,new,total,1502736,new on waiting list
-2021-04-01,new,trauma and orthopaedic,135506,new on waiting list
-2022-04-01,complete,dermatology,77894,started treatment
-2022-04-01,complete,gastroenterology,51794,started treatment
-2022-04-01,complete,ophthalmology,136564,started treatment
-2022-04-01,complete,total,1180062,started treatment
-2022-04-01,complete,trauma and orthopaedic,118871,started treatment
-2022-04-01,incomplete,dermatology,347433,total waiting list
-2022-04-01,incomplete,gastroenterology,391745,total waiting list
-2022-04-01,incomplete,ophthalmology,788399,total waiting list
-2022-04-01,incomplete,total,7560519,total waiting list
-2022-04-01,incomplete,trauma and orthopaedic,986239,total waiting list
-2022-04-01,new,dermatology,92532,new on waiting list
-2022-04-01,new,gastroenterology,77634,new on waiting list
-2022-04-01,new,ophthalmology,155162,new on waiting list
-2022-04-01,new,total,1500606,new on waiting list
-2022-04-01,new,trauma and orthopaedic,143019,new on waiting list
-2018-08-01,complete,dermatology,81043,started treatment
-2018-08-01,complete,gastroenterology,57482,started treatment
-2018-08-01,complete,ophthalmology,136738,started treatment
-2018-08-01,complete,total,1311754,started treatment
-2018-08-01,complete,trauma & orthopaedics,147044,started treatment
-2018-08-01,incomplete,dermatology,243631,total waiting list
-2018-08-01,incomplete,gastroenterology,235668,total waiting list
-2018-08-01,incomplete,ophthalmology,546117,total waiting list
-2018-08-01,incomplete,total,4931967,total waiting list
-2018-08-01,incomplete,trauma & orthopaedics,669722,total waiting list
-2018-08-01,new,dermatology,105665,new on waiting list
-2018-08-01,new,gastroenterology,84332,new on waiting list
-2018-08-01,new,ophthalmology,158582,new on waiting list
-2018-08-01,new,total,1639833,new on waiting list
-2018-08-01,new,trauma & orthopaedics,178207,new on waiting list
-2019-08-01,complete,dermatology,78496,started treatment
-2019-08-01,complete,gastroenterology,57768,started treatment
-2019-08-01,complete,ophthalmology,137493,started treatment
-2019-08-01,complete,total,1286595,started treatment
-2019-08-01,complete,trauma & orthopaedics,143865,started treatment
-2019-08-01,incomplete,dermatology,255864,total waiting list
-2019-08-01,incomplete,gastroenterology,259231,total waiting list
-2019-08-01,incomplete,ophthalmology,573719,total waiting list
-2019-08-01,incomplete,total,5206902,total waiting list
-2019-08-01,incomplete,trauma & orthopaedics,693907,total waiting list
-2019-08-01,new,dermatology,99133,new on waiting list
-2019-08-01,new,gastroenterology,84904,new on waiting list
-2019-08-01,new,ophthalmology,155772,new on waiting list
-2019-08-01,new,total,1582750,new on waiting list
-2019-08-01,new,trauma & orthopaedics,174028,new on waiting list
-2020-08-01,complete,dermatology,58115,started treatment
-2020-08-01,complete,gastroenterology,36643,started treatment
-2020-08-01,complete,ophthalmology,83133,started treatment
-2020-08-01,complete,total,827396,started treatment
-2020-08-01,complete,trauma & orthopaedics,74800,started treatment
-2020-08-01,incomplete,dermatology,209447,total waiting list
-2020-08-01,incomplete,gastroenterology,273928,total waiting list
-2020-08-01,incomplete,ophthalmology,585113,total waiting list
-2020-08-01,incomplete,total,5139208,total waiting list
-2020-08-01,incomplete,trauma & orthopaedics,745241,total waiting list
-2020-08-01,new,dermatology,73818,new on waiting list
-2020-08-01,new,gastroenterology,61555,new on waiting list
-2020-08-01,new,ophthalmology,106816,new on waiting list
-2020-08-01,new,total,1118376,new on waiting list
-2020-08-01,new,trauma & orthopaedics,106914,new on waiting list
-2021-08-01,complete,dermatology,75862,started treatment
-2021-08-01,complete,gastroenterology,51151,started treatment
-2021-08-01,complete,ophthalmology,128417,started treatment
-2021-08-01,complete,total,1142835,started treatment
-2021-08-01,complete,trauma and orthopaedic,119393,started treatment
-2021-08-01,incomplete,dermatology,310021,total waiting list
-2021-08-01,incomplete,gastroenterology,363714,total waiting list
-2021-08-01,incomplete,ophthalmology,703830,total waiting list
-2021-08-01,incomplete,total,6733462,total waiting list
-2021-08-01,incomplete,trauma and orthopaedic,928892,total waiting list
-2021-08-01,new,dermatology,97819,new on waiting list
-2021-08-01,new,gastroenterology,80030,new on waiting list
-2021-08-01,new,ophthalmology,147738,new on waiting list
-2021-08-01,new,total,1473439,new on waiting list
-2021-08-01,new,trauma and orthopaedic,146707,new on waiting list
-2018-12-01,complete,dermatology,71245,started treatment
-2018-12-01,complete,gastroenterology,54001,started treatment
-2018-12-01,complete,ophthalmology,124246,started treatment
-2018-12-01,complete,total,1193728,started treatment
-2018-12-01,complete,trauma & orthopaedics,134947,started treatment
-2018-12-01,incomplete,dermatology,225133,total waiting list
-2018-12-01,incomplete,gastroenterology,245879,total waiting list
-2018-12-01,incomplete,ophthalmology,562848,total waiting list
-2018-12-01,incomplete,total,4938557,total waiting list
-2018-12-01,incomplete,trauma & orthopaedics,661267,total waiting list
-2018-12-01,new,dermatology,75783,new on waiting list
-2018-12-01,new,gastroenterology,77775,new on waiting list
-2018-12-01,new,ophthalmology,137636,new on waiting list
-2018-12-01,new,total,1436330,new on waiting list
-2018-12-01,new,trauma & orthopaedics,148422,new on waiting list
-2019-12-01,complete,dermatology,73419,started treatment
-2019-12-01,complete,gastroenterology,54538,started treatment
-2019-12-01,complete,ophthalmology,129405,started treatment
-2019-12-01,complete,total,1224112,started treatment
-2019-12-01,complete,trauma & orthopaedics,133337,started treatment
-2019-12-01,incomplete,dermatology,244442,total waiting list
-2019-12-01,incomplete,gastroenterology,266184,total waiting list
-2019-12-01,incomplete,ophthalmology,573053,total waiting list
-2019-12-01,incomplete,total,5258135,total waiting list
-2019-12-01,incomplete,trauma & orthopaedics,710272,total waiting list
-2019-12-01,new,dermatology,77437,new on waiting list
-2019-12-01,new,gastroenterology,79825,new on waiting list
-2019-12-01,new,ophthalmology,144030,new on waiting list
-2019-12-01,new,total,1464706,new on waiting list
-2019-12-01,new,trauma & orthopaedics,152917,new on waiting list
-2020-12-01,complete,dermatology,69787,started treatment
-2020-12-01,complete,gastroenterology,46789,started treatment
-2020-12-01,complete,ophthalmology,109217,started treatment
-2020-12-01,complete,total,1043729,started treatment
-2020-12-01,complete,trauma & orthopaedics,98347,started treatment
-2020-12-01,incomplete,dermatology,207967,total waiting list
-2020-12-01,incomplete,gastroenterology,299833,total waiting list
-2020-12-01,incomplete,ophthalmology,592583,total waiting list
-2020-12-01,incomplete,total,5407843,total waiting list
-2020-12-01,incomplete,trauma & orthopaedics,777822,total waiting list
-2020-12-01,new,dermatology,70921,new on waiting list
-2020-12-01,new,gastroenterology,73183,new on waiting list
-2020-12-01,new,ophthalmology,118360,new on waiting list
-2020-12-01,new,total,1265602,new on waiting list
-2020-12-01,new,trauma & orthopaedics,108780,new on waiting list
-2021-12-01,complete,dermatology,72633,started treatment
-2021-12-01,complete,gastroenterology,52807,started treatment
-2021-12-01,complete,ophthalmology,125577,started treatment
-2021-12-01,complete,total,1175045,started treatment
-2021-12-01,complete,trauma and orthopaedic,117406,started treatment
-2021-12-01,incomplete,dermatology,327005,total waiting list
-2021-12-01,incomplete,gastroenterology,377985,total waiting list
-2021-12-01,incomplete,ophthalmology,737142,total waiting list
-2021-12-01,incomplete,total,7117272,total waiting list
-2021-12-01,incomplete,trauma and orthopaedic,942884,total waiting list
-2021-12-01,new,dermatology,77121,new on waiting list
-2021-12-01,new,gastroenterology,76345,new on waiting list
-2021-12-01,new,ophthalmology,139148,new on waiting list
-2021-12-01,new,total,1431774,new on waiting list
-2021-12-01,new,trauma and orthopaedic,131452,new on waiting list
-2019-02-01,complete,dermatology,74585,started treatment
-2019-02-01,complete,gastroenterology,59865,started treatment
-2019-02-01,complete,ophthalmology,140566,started treatment
-2019-02-01,complete,total,1322633,started treatment
-2019-02-01,complete,trauma & orthopaedics,146422,started treatment
-2019-02-01,incomplete,dermatology,213969,total waiting list
-2019-02-01,incomplete,gastroenterology,253174,total waiting list
-2019-02-01,incomplete,ophthalmology,548115,total waiting list
-2019-02-01,incomplete,total,4935400,total waiting list
-2019-02-01,incomplete,trauma & orthopaedics,666182,total waiting list
-2019-02-01,new,dermatology,90251,new on waiting list
-2019-02-01,new,gastroenterology,87907,new on waiting list
-2019-02-01,new,ophthalmology,156447,new on waiting list
-2019-02-01,new,total,1644131,new on waiting list
-2019-02-01,new,trauma & orthopaedics,172222,new on waiting list
-2020-02-01,complete,dermatology,81501,started treatment
-2020-02-01,complete,gastroenterology,60523,started treatment
-2020-02-01,complete,ophthalmology,144312,started treatment
-2020-02-01,complete,total,1346386,started treatment
-2020-02-01,complete,trauma & orthopaedics,146918,started treatment
-2020-02-01,incomplete,dermatology,238055,total waiting list
-2020-02-01,incomplete,gastroenterology,265044,total waiting list
-2020-02-01,incomplete,ophthalmology,567452,total waiting list
-2020-02-01,incomplete,total,5276427,total waiting list
-2020-02-01,incomplete,trauma & orthopaedics,708506,total waiting list
-2020-02-01,new,dermatology,90163,new on waiting list
-2020-02-01,new,gastroenterology,84768,new on waiting list
-2020-02-01,new,ophthalmology,158654,new on waiting list
-2020-02-01,new,total,1604870,new on waiting list
-2020-02-01,new,trauma & orthopaedics,168478,new on waiting list
-2021-02-01,complete,dermatology,65861,started treatment
-2021-02-01,complete,gastroenterology,47682,started treatment
-2021-02-01,complete,ophthalmology,99678,started treatment
-2021-02-01,complete,total,975931,started treatment
-2021-02-01,complete,trauma & orthopaedics,82742,started treatment
-2021-02-01,incomplete,dermatology,208903,total waiting list
-2021-02-01,incomplete,gastroenterology,309128,total waiting list
-2021-02-01,incomplete,ophthalmology,616578,total waiting list
-2021-02-01,incomplete,total,5682441,total waiting list
-2021-02-01,incomplete,trauma & orthopaedics,835752,total waiting list
-2021-02-01,new,dermatology,76098,new on waiting list
-2021-02-01,new,gastroenterology,71597,new on waiting list
-2021-02-01,new,ophthalmology,115625,new on waiting list
-2021-02-01,new,total,1258329,new on waiting list
-2021-02-01,new,trauma & orthopaedics,105521,new on waiting list
-2022-02-01,complete,dermatology,80056,started treatment
-2022-02-01,complete,gastroenterology,55820,started treatment
-2022-02-01,complete,ophthalmology,141845,started treatment
-2022-02-01,complete,total,1262524,started treatment
-2022-02-01,complete,trauma and orthopaedic,125570,started treatment
-2022-02-01,incomplete,dermatology,334221,total waiting list
-2022-02-01,incomplete,gastroenterology,373724,total waiting list
-2022-02-01,incomplete,ophthalmology,731966,total waiting list
-2022-02-01,incomplete,total,7245304,total waiting list
-2022-02-01,incomplete,trauma and orthopaedic,955719,total waiting list
-2022-02-01,new,dermatology,93076,new on waiting list
-2022-02-01,new,gastroenterology,80055,new on waiting list
-2022-02-01,new,ophthalmology,151877,new on waiting list
-2022-02-01,new,total,1551530,new on waiting list
-2022-02-01,new,trauma and orthopaedic,145335,new on waiting list
-2019-01-01,complete,dermatology,84920,started treatment
-2019-01-01,complete,gastroenterology,67207,started treatment
-2019-01-01,complete,ophthalmology,158089,started treatment
-2019-01-01,complete,total,1506163,started treatment
-2019-01-01,complete,trauma & orthopaedics,168325,started treatment
-2019-01-01,incomplete,dermatology,222212,total waiting list
-2019-01-01,incomplete,gastroenterology,252213,total waiting list
-2019-01-01,incomplete,ophthalmology,555097,total waiting list
-2019-01-01,incomplete,total,4978299,total waiting list
-2019-01-01,incomplete,trauma & orthopaedics,668008,total waiting list
-2019-01-01,new,dermatology,99158,new on waiting list
-2019-01-01,new,gastroenterology,95989,new on waiting list
-2019-01-01,new,ophthalmology,168193,new on waiting list
-2019-01-01,new,total,1800389,new on waiting list
-2019-01-01,new,trauma & orthopaedics,187682,new on waiting list
-2020-01-01,complete,dermatology,85181,started treatment
-2020-01-01,complete,gastroenterology,65706,started treatment
-2020-01-01,complete,ophthalmology,156545,started treatment
-2020-01-01,complete,total,1470369,started treatment
-2020-01-01,complete,trauma & orthopaedics,162674,started treatment
-2020-01-01,incomplete,dermatology,239452,total waiting list
-2020-01-01,incomplete,gastroenterology,265897,total waiting list
-2020-01-01,incomplete,ophthalmology,568257,total waiting list
-2020-01-01,incomplete,total,5270370,total waiting list
-2020-01-01,incomplete,trauma & orthopaedics,710085,total waiting list
-2020-01-01,new,dermatology,94075,new on waiting list
-2020-01-01,new,gastroenterology,93882,new on waiting list
-2020-01-01,new,ophthalmology,169740,new on waiting list
-2020-01-01,new,total,1743073,new on waiting list
-2020-01-01,new,trauma & orthopaedics,182242,new on waiting list
-2021-01-01,complete,dermatology,63750,started treatment
-2021-01-01,complete,gastroenterology,47298,started treatment
-2021-01-01,complete,ophthalmology,95448,started treatment
-2021-01-01,complete,total,965662,started treatment
-2021-01-01,complete,trauma & orthopaedics,82197,started treatment
-2021-01-01,incomplete,dermatology,205947,total waiting list
-2021-01-01,incomplete,gastroenterology,308202,total waiting list
-2021-01-01,incomplete,ophthalmology,604401,total waiting list
-2021-01-01,incomplete,total,5536142,total waiting list
-2021-01-01,incomplete,trauma & orthopaedics,809990,total waiting list
-2021-01-01,new,dermatology,65276,new on waiting list
-2021-01-01,new,gastroenterology,69570,new on waiting list
-2021-01-01,new,ophthalmology,107204,new on waiting list
-2021-01-01,new,total,1189664,new on waiting list
-2021-01-01,new,trauma & orthopaedics,103273,new on waiting list
-2022-01-01,complete,dermatology,76130,started treatment
-2022-01-01,complete,gastroenterology,57553,started treatment
-2022-01-01,complete,ophthalmology,137134,started treatment
-2022-01-01,complete,total,1242605,started treatment
-2022-01-01,complete,trauma and orthopaedic,119858,started treatment
-2022-01-01,incomplete,dermatology,328665,total waiting list
-2022-01-01,incomplete,gastroenterology,373914,total waiting list
-2022-01-01,incomplete,ophthalmology,727853,total waiting list
-2022-01-01,incomplete,total,7164436,total waiting list
-2022-01-01,incomplete,trauma and orthopaedic,950483,total waiting list
-2022-01-01,new,dermatology,89369,new on waiting list
-2022-01-01,new,gastroenterology,78133,new on waiting list
-2022-01-01,new,ophthalmology,146459,new on waiting list
-2022-01-01,new,total,1517832,new on waiting list
-2022-01-01,new,trauma and orthopaedic,139937,new on waiting list
-2018-07-01,complete,dermatology,84052,started treatment
-2018-07-01,complete,gastroenterology,60850,started treatment
-2018-07-01,complete,ophthalmology,143380,started treatment
-2018-07-01,complete,total,1400413,started treatment
-2018-07-01,complete,trauma & orthopaedics,156243,started treatment
-2018-07-01,incomplete,dermatology,234028,total waiting list
-2018-07-01,incomplete,gastroenterology,232002,total waiting list
-2018-07-01,incomplete,ophthalmology,538016,total waiting list
-2018-07-01,incomplete,total,4909522,total waiting list
-2018-07-01,incomplete,trauma & orthopaedics,661834,total waiting list
-2018-07-01,new,dermatology,109317,new on waiting list
-2018-07-01,new,gastroenterology,87109,new on waiting list
-2018-07-01,new,ophthalmology,164058,new on waiting list
-2018-07-01,new,total,1722836,new on waiting list
-2018-07-01,new,trauma & orthopaedics,187705,new on waiting list
-2019-07-01,complete,dermatology,89193,started treatment
-2019-07-01,complete,gastroenterology,67432,started treatment
-2019-07-01,complete,ophthalmology,156466,started treatment
-2019-07-01,complete,total,1498726,started treatment
-2019-07-01,complete,trauma & orthopaedics,169015,started treatment
-2019-07-01,incomplete,dermatology,245094,total waiting list
-2019-07-01,incomplete,gastroenterology,259110,total waiting list
-2019-07-01,incomplete,ophthalmology,573714,total waiting list
-2019-07-01,incomplete,total,5177515,total waiting list
-2019-07-01,incomplete,trauma & orthopaedics,681945,total waiting list
-2019-07-01,new,dermatology,112993,new on waiting list
-2019-07-01,new,gastroenterology,95216,new on waiting list
-2019-07-01,new,ophthalmology,173514,new on waiting list
-2019-07-01,new,total,1808020,new on waiting list
-2019-07-01,new,trauma & orthopaedics,199031,new on waiting list
-2020-07-01,complete,dermatology,62650,started treatment
-2020-07-01,complete,gastroenterology,39581,started treatment
-2020-07-01,complete,ophthalmology,75346,started treatment
-2020-07-01,complete,total,874031,started treatment
-2020-07-01,complete,trauma & orthopaedics,68263,started treatment
-2020-07-01,incomplete,dermatology,198135,total waiting list
-2020-07-01,incomplete,gastroenterology,257034,total waiting list
-2020-07-01,incomplete,ophthalmology,564770,total waiting list
-2020-07-01,incomplete,total,4971452,total waiting list
-2020-07-01,incomplete,trauma & orthopaedics,719242,total waiting list
-2020-07-01,new,dermatology,75688,new on waiting list
-2020-07-01,new,gastroenterology,66692,new on waiting list
-2020-07-01,new,ophthalmology,96610,new on waiting list
-2020-07-01,new,total,1182821,new on waiting list
-2020-07-01,new,trauma & orthopaedics,107666,new on waiting list
-2021-07-01,complete,dermatology,80047,started treatment
-2021-07-01,complete,gastroenterology,56736,started treatment
-2021-07-01,complete,ophthalmology,137897,started treatment
-2021-07-01,complete,total,1266129,started treatment
-2021-07-01,complete,trauma and orthopaedic,135057,started treatment
-2021-07-01,incomplete,dermatology,297930,total waiting list
-2021-07-01,incomplete,gastroenterology,359419,total waiting list
-2021-07-01,incomplete,ophthalmology,698833,total waiting list
-2021-07-01,incomplete,total,6635976,total waiting list
-2021-07-01,incomplete,trauma and orthopaedic,920997,total waiting list
-2021-07-01,new,dermatology,106519,new on waiting list
-2021-07-01,new,gastroenterology,86611,new on waiting list
-2021-07-01,new,ophthalmology,160338,new on waiting list
-2021-07-01,new,total,1610221,new on waiting list
-2021-07-01,new,trauma and orthopaedic,158337,new on waiting list
-2022-07-01,complete,dermatology,80831,started treatment
-2022-07-01,complete,gastroenterology,56770,started treatment
-2022-07-01,complete,ophthalmology,148260,started treatment
-2022-07-01,complete,total,1284485,started treatment
-2022-07-01,complete,trauma and orthopaedic,132113,started treatment
-2022-07-01,incomplete,dermatology,389669,total waiting list
-2022-07-01,incomplete,gastroenterology,405360,total waiting list
-2022-07-01,incomplete,ophthalmology,787253,total waiting list
-2022-07-01,incomplete,total,7932001,total waiting list
-2022-07-01,incomplete,trauma and orthopaedic,1017756,total waiting list
-2022-07-01,new,dermatology,106485,new on waiting list
-2022-07-01,new,gastroenterology,82975,new on waiting list
-2022-07-01,new,ophthalmology,158112,new on waiting list
-2022-07-01,new,total,1607262,new on waiting list
-2022-07-01,new,trauma and orthopaedic,155031,new on waiting list
-2018-06-01,complete,dermatology,81627,started treatment
-2018-06-01,complete,gastroenterology,59028,started treatment
-2018-06-01,complete,ophthalmology,142782,started treatment
-2018-06-01,complete,total,1368627,started treatment
-2018-06-01,complete,trauma & orthopaedics,150406,started treatment
-2018-06-01,incomplete,dermatology,224085,total waiting list
-2018-06-01,incomplete,gastroenterology,231291,total waiting list
-2018-06-01,incomplete,ophthalmology,534414,total waiting list
-2018-06-01,incomplete,total,4894288,total waiting list
-2018-06-01,incomplete,trauma & orthopaedics,655466,total waiting list
-2018-06-01,new,dermatology,103417,new on waiting list
-2018-06-01,new,gastroenterology,83697,new on waiting list
-2018-06-01,new,ophthalmology,163291,new on waiting list
-2018-06-01,new,total,1683143,new on waiting list
-2018-06-01,new,trauma & orthopaedics,183216,new on waiting list
-2019-06-01,complete,dermatology,81028,started treatment
-2019-06-01,complete,gastroenterology,61337,started treatment
-2019-06-01,complete,ophthalmology,143741,started treatment
-2019-06-01,complete,total,1358247,started treatment
-2019-06-01,complete,trauma & orthopaedics,152217,started treatment
-2019-06-01,incomplete,dermatology,238077,total waiting list
-2019-06-01,incomplete,gastroenterology,261325,total waiting list
-2019-06-01,incomplete,ophthalmology,578231,total waiting list
-2019-06-01,incomplete,total,5206026,total waiting list
-2019-06-01,incomplete,trauma & orthopaedics,680847,total waiting list
-2019-06-01,new,dermatology,98670,new on waiting list
-2019-06-01,new,gastroenterology,85935,new on waiting list
-2019-06-01,new,ophthalmology,160155,new on waiting list
-2019-06-01,new,total,1647201,new on waiting list
-2019-06-01,new,trauma & orthopaedics,180173,new on waiting list
-2020-06-01,complete,dermatology,54972,started treatment
-2020-06-01,complete,gastroenterology,35249,started treatment
-2020-06-01,complete,ophthalmology,52036,started treatment
-2020-06-01,complete,total,760442,started treatment
-2020-06-01,complete,trauma & orthopaedics,56080,started treatment
-2020-06-01,incomplete,dermatology,190887,total waiting list
-2020-06-01,incomplete,gastroenterology,237714,total waiting list
-2020-06-01,incomplete,ophthalmology,539966,total waiting list
-2020-06-01,incomplete,total,4763916,total waiting list
-2020-06-01,incomplete,trauma & orthopaedics,676216,total waiting list
-2020-06-01,new,dermatology,61891,new on waiting list
-2020-06-01,new,gastroenterology,53294,new on waiting list
-2020-06-01,new,ophthalmology,61665,new on waiting list
-2020-06-01,new,total,942917,new on waiting list
-2020-06-01,new,trauma & orthopaedics,80954,new on waiting list
-2021-06-01,complete,dermatology,85794,started treatment
-2021-06-01,complete,gastroenterology,60405,started treatment
-2021-06-01,complete,ophthalmology,145352,started treatment
-2021-06-01,complete,total,1343311,started treatment
-2021-06-01,complete,trauma and orthopaedic,138718,started treatment
-2021-06-01,incomplete,dermatology,277733,total waiting list
-2021-06-01,incomplete,gastroenterology,353029,total waiting list
-2021-06-01,incomplete,ophthalmology,684242,total waiting list
-2021-06-01,incomplete,total,6489881,total waiting list
-2021-06-01,incomplete,trauma and orthopaedic,911638,total waiting list
-2021-06-01,new,dermatology,113281,new on waiting list
-2021-06-01,new,gastroenterology,88803,new on waiting list
-2021-06-01,new,ophthalmology,165921,new on waiting list
-2021-06-01,new,total,1680207,new on waiting list
-2021-06-01,new,trauma and orthopaedic,165552,new on waiting list
-2022-06-01,complete,dermatology,84685,started treatment
-2022-06-01,complete,gastroenterology,57592,started treatment
-2022-06-01,complete,ophthalmology,149805,started treatment
-2022-06-01,complete,total,1305090,started treatment
-2022-06-01,complete,trauma and orthopaedic,135517,started treatment
-2022-06-01,incomplete,dermatology,375315,total waiting list
-2022-06-01,incomplete,gastroenterology,401200,total waiting list
-2022-06-01,incomplete,ophthalmology,783426,total waiting list
-2022-06-01,incomplete,total,7817122,total waiting list
-2022-06-01,incomplete,trauma and orthopaedic,1009476,total waiting list
-2022-06-01,new,dermatology,103996,new on waiting list
-2022-06-01,new,gastroenterology,82214,new on waiting list
-2022-06-01,new,ophthalmology,161295,new on waiting list
-2022-06-01,new,total,1602510,new on waiting list
-2022-06-01,new,trauma and orthopaedic,157080,new on waiting list
-2019-03-01,complete,dermatology,79463,started treatment
-2019-03-01,complete,gastroenterology,62914,started treatment
-2019-03-01,complete,ophthalmology,147438,started treatment
-2019-03-01,complete,total,1406375,started treatment
-2019-03-01,complete,trauma & orthopaedics,157532,started treatment
-2019-03-01,incomplete,dermatology,218974,total waiting list
-2019-03-01,incomplete,gastroenterology,258038,total waiting list
-2019-03-01,incomplete,ophthalmology,559177,total waiting list
-2019-03-01,incomplete,total,5031039,total waiting list
-2019-03-01,incomplete,trauma & orthopaedics,669735,total waiting list
-2019-03-01,new,dermatology,97361,new on waiting list
-2019-03-01,new,gastroenterology,90968,new on waiting list
-2019-03-01,new,ophthalmology,169255,new on waiting list
-2019-03-01,new,total,1747038,new on waiting list
-2019-03-01,new,trauma & orthopaedics,186371,new on waiting list
-2020-03-01,complete,dermatology,74667,started treatment
-2020-03-01,complete,gastroenterology,55412,started treatment
-2020-03-01,complete,ophthalmology,114473,started treatment
-2020-03-01,complete,total,1190890,started treatment
-2020-03-01,complete,trauma & orthopaedics,130624,started treatment
-2020-03-01,incomplete,dermatology,217653,total waiting list
-2020-03-01,incomplete,gastroenterology,250883,total waiting list
-2020-03-01,incomplete,ophthalmology,554211,total waiting list
-2020-03-01,incomplete,total,5069140,total waiting list
-2020-03-01,incomplete,trauma & orthopaedics,676088,total waiting list
-2020-03-01,new,dermatology,65263,new on waiting list
-2020-03-01,new,gastroenterology,65936,new on waiting list
-2020-03-01,new,ophthalmology,117834,new on waiting list
-2020-03-01,new,total,1224810,new on waiting list
-2020-03-01,new,trauma & orthopaedics,119823,new on waiting list
-2021-03-01,complete,dermatology,84288,started treatment
-2021-03-01,complete,gastroenterology,57531,started treatment
-2021-03-01,complete,ophthalmology,130485,started treatment
-2021-03-01,complete,total,1238570,started treatment
-2021-03-01,complete,trauma & orthopaedics,107635,started treatment
-2021-03-01,incomplete,dermatology,223640,total waiting list
-2021-03-01,incomplete,gastroenterology,327468,total waiting list
-2021-03-01,incomplete,ophthalmology,635638,total waiting list
-2021-03-01,incomplete,total,5972529,total waiting list
-2021-03-01,incomplete,trauma & orthopaedics,866263,total waiting list
-2021-03-01,new,dermatology,100964,new on waiting list
-2021-03-01,new,gastroenterology,90780,new on waiting list
-2021-03-01,new,ophthalmology,155162,new on waiting list
-2021-03-01,new,total,1621904,new on waiting list
-2021-03-01,new,trauma & orthopaedics,135991,new on waiting list
-2022-03-01,complete,dermatology,90299,started treatment
-2022-03-01,complete,gastroenterology,64010,started treatment
-2022-03-01,complete,ophthalmology,163219,started treatment
-2022-03-01,complete,total,1444546,started treatment
-2022-03-01,complete,trauma and orthopaedic,143482,started treatment
-2022-03-01,incomplete,dermatology,341447,total waiting list
-2022-03-01,incomplete,gastroenterology,386279,total waiting list
-2022-03-01,incomplete,ophthalmology,773654,total waiting list
-2022-03-01,incomplete,total,7446729,total waiting list
-2022-03-01,incomplete,trauma and orthopaedic,983971,total waiting list
-2022-03-01,new,dermatology,104611,new on waiting list
-2022-03-01,new,gastroenterology,91684,new on waiting list
-2022-03-01,new,ophthalmology,180239,new on waiting list
-2022-03-01,new,total,1790474,new on waiting list
-2022-03-01,new,trauma and orthopaedic,169501,new on waiting list
-2018-05-01,complete,dermatology,80210,started treatment
-2018-05-01,complete,gastroenterology,62124,started treatment
-2018-05-01,complete,ophthalmology,146364,started treatment
-2018-05-01,complete,total,1404606,started treatment
-2018-05-01,complete,trauma & orthopaedics,157245,started treatment
-2018-05-01,incomplete,dermatology,217562,total waiting list
-2018-05-01,incomplete,gastroenterology,231230,total waiting list
-2018-05-01,incomplete,ophthalmology,531137,total waiting list
-2018-05-01,incomplete,total,4864148,total waiting list
-2018-05-01,incomplete,trauma & orthopaedics,649010,total waiting list
-2018-05-01,new,dermatology,103561,new on waiting list
-2018-05-01,new,gastroenterology,87532,new on waiting list
-2018-05-01,new,ophthalmology,170604,new on waiting list
-2018-05-01,new,total,1752547,new on waiting list
-2018-05-01,new,trauma & orthopaedics,186987,new on waiting list
-2019-05-01,complete,dermatology,81271,started treatment
-2019-05-01,complete,gastroenterology,62923,started treatment
-2019-05-01,complete,ophthalmology,147923,started treatment
-2019-05-01,complete,total,1403228,started treatment
-2019-05-01,complete,trauma & orthopaedics,159967,started treatment
-2019-05-01,incomplete,dermatology,230720,total waiting list
-2019-05-01,incomplete,gastroenterology,266284,total waiting list
-2019-05-01,incomplete,ophthalmology,576473,total waiting list
-2019-05-01,incomplete,total,5197434,total waiting list
-2019-05-01,incomplete,trauma & orthopaedics,679979,total waiting list
-2019-05-01,new,dermatology,102472,new on waiting list
-2019-05-01,new,gastroenterology,89660,new on waiting list
-2019-05-01,new,ophthalmology,171134,new on waiting list
-2019-05-01,new,total,1761403,new on waiting list
-2019-05-01,new,trauma & orthopaedics,194230,new on waiting list
-2020-05-01,complete,dermatology,38211,started treatment
-2020-05-01,complete,gastroenterology,25276,started treatment
-2020-05-01,complete,ophthalmology,36864,started treatment
-2020-05-01,complete,total,564885,started treatment
-2020-05-01,complete,trauma & orthopaedics,40113,started treatment
-2020-05-01,incomplete,dermatology,194432,total waiting list
-2020-05-01,incomplete,gastroenterology,233134,total waiting list
-2020-05-01,incomplete,ophthalmology,538416,total waiting list
-2020-05-01,incomplete,total,4733229,total waiting list
-2020-05-01,incomplete,trauma & orthopaedics,655830,total waiting list
-2020-05-01,new,dermatology,40159,new on waiting list
-2020-05-01,new,gastroenterology,36370,new on waiting list
-2020-05-01,new,ophthalmology,37573,new on waiting list
-2020-05-01,new,total,629424,new on waiting list
-2020-05-01,new,trauma & orthopaedics,49151,new on waiting list
-2021-05-01,complete,dermatology,76431,started treatment
-2021-05-01,complete,gastroenterology,55415,started treatment
-2021-05-01,complete,ophthalmology,127602,started treatment
-2021-05-01,complete,total,1202732,started treatment
-2021-05-01,complete,trauma and orthopaedic,121417,started treatment
-2021-05-01,incomplete,dermatology,256449,total waiting list
-2021-05-01,incomplete,gastroenterology,345621,total waiting list
-2021-05-01,incomplete,ophthalmology,669036,total waiting list
-2021-05-01,incomplete,total,6351736,total waiting list
-2021-05-01,incomplete,trauma and orthopaedic,894051,total waiting list
-2021-05-01,new,dermatology,94891,new on waiting list
-2021-05-01,new,gastroenterology,82147,new on waiting list
-2021-05-01,new,ophthalmology,147558,new on waiting list
-2021-05-01,new,total,1521120,new on waiting list
-2021-05-01,new,trauma and orthopaedic,144382,new on waiting list
-2022-05-01,complete,dermatology,89540,started treatment
-2022-05-01,complete,gastroenterology,61624,started treatment
-2022-05-01,complete,ophthalmology,159028,started treatment
-2022-05-01,complete,total,1393273,started treatment
-2022-05-01,complete,trauma and orthopaedic,144501,started treatment
-2022-05-01,incomplete,dermatology,362031,total waiting list
-2022-05-01,incomplete,gastroenterology,395012,total waiting list
-2022-05-01,incomplete,ophthalmology,773815,total waiting list
-2022-05-01,incomplete,total,7691020,total waiting list
-2022-05-01,incomplete,trauma and orthopaedic,999434,total waiting list
-2022-05-01,new,dermatology,110903,new on waiting list
-2022-05-01,new,gastroenterology,88003,new on waiting list
-2022-05-01,new,ophthalmology,173141,new on waiting list
-2022-05-01,new,total,1738506,new on waiting list
-2022-05-01,new,trauma and orthopaedic,170984,new on waiting list
-2018-11-01,complete,dermatology,87724,started treatment
-2018-11-01,complete,gastroenterology,64806,started treatment
-2018-11-01,complete,ophthalmology,156236,started treatment
-2018-11-01,complete,total,1490082,started treatment
-2018-11-01,complete,trauma & orthopaedics,168945,started treatment
-2018-11-01,incomplete,dermatology,235301,total waiting list
-2018-11-01,incomplete,gastroenterology,243267,total waiting list
-2018-11-01,incomplete,ophthalmology,560818,total waiting list
-2018-11-01,incomplete,total,4929450,total waiting list
-2018-11-01,incomplete,trauma & orthopaedics,669367,total waiting list
-2018-11-01,new,dermatology,97933,new on waiting list
-2018-11-01,new,gastroenterology,90606,new on waiting list
-2018-11-01,new,ophthalmology,173240,new on waiting list
-2018-11-01,new,total,1764247,new on waiting list
-2018-11-01,new,trauma & orthopaedics,189621,new on waiting list
-2019-11-01,complete,dermatology,85861,started treatment
-2019-11-01,complete,gastroenterology,64309,started treatment
-2019-11-01,complete,ophthalmology,155148,started treatment
-2019-11-01,complete,total,1428493,started treatment
-2019-11-01,complete,trauma & orthopaedics,157214,started treatment
-2019-11-01,incomplete,dermatology,253717,total waiting list
-2019-11-01,incomplete,gastroenterology,264529,total waiting list
-2019-11-01,incomplete,ophthalmology,571899,total waiting list
-2019-11-01,incomplete,total,5244535,total waiting list
-2019-11-01,incomplete,trauma & orthopaedics,700010,total waiting list
-2019-11-01,new,dermatology,91906,new on waiting list
-2019-11-01,new,gastroenterology,88241,new on waiting list
-2019-11-01,new,ophthalmology,165952,new on waiting list
-2019-11-01,new,total,1663039,new on waiting list
-2019-11-01,new,trauma & orthopaedics,174299,new on waiting list
-2020-11-01,complete,dermatology,77355,started treatment
-2020-11-01,complete,gastroenterology,53223,started treatment
-2020-11-01,complete,ophthalmology,124955,started treatment
-2020-11-01,complete,total,1169246,started treatment
-2020-11-01,complete,trauma & orthopaedics,111693,started treatment
-2020-11-01,incomplete,dermatology,212873,total waiting list
-2020-11-01,incomplete,gastroenterology,293443,total waiting list
-2020-11-01,incomplete,ophthalmology,590965,total waiting list
-2020-11-01,incomplete,total,5336107,total waiting list
-2020-11-01,incomplete,trauma & orthopaedics,775668,total waiting list
-2020-11-01,new,dermatology,78808,new on waiting list
-2020-11-01,new,gastroenterology,75227,new on waiting list
-2020-11-01,new,ophthalmology,132310,new on waiting list
-2020-11-01,new,total,1353340,new on waiting list
-2020-11-01,new,trauma & orthopaedics,122472,new on waiting list
-2021-11-01,complete,dermatology,88238,started treatment
-2021-11-01,complete,gastroenterology,63766,started treatment
-2021-11-01,complete,ophthalmology,159022,started treatment
-2021-11-01,complete,total,1427300,started treatment
-2021-11-01,complete,trauma and orthopaedic,146724,started treatment
-2021-11-01,incomplete,dermatology,330764,total waiting list
-2021-11-01,incomplete,gastroenterology,374685,total waiting list
-2021-11-01,incomplete,ophthalmology,726997,total waiting list
-2021-11-01,incomplete,total,7025989,total waiting list
-2021-11-01,incomplete,trauma and orthopaedic,938337,total waiting list
-2021-11-01,new,dermatology,97897,new on waiting list
-2021-11-01,new,gastroenterology,87970,new on waiting list
-2021-11-01,new,ophthalmology,168065,new on waiting list
-2021-11-01,new,total,1688466,new on waiting list
-2021-11-01,new,trauma and orthopaedic,162924,new on waiting list
-2018-10-01,complete,dermatology,90643,started treatment
-2018-10-01,complete,gastroenterology,66130,started treatment
-2018-10-01,complete,ophthalmology,159004,started treatment
-2018-10-01,complete,total,1515696,started treatment
-2018-10-01,complete,trauma & orthopaedics,172664,started treatment
-2018-10-01,incomplete,dermatology,242739,total waiting list
-2018-10-01,incomplete,gastroenterology,245153,total waiting list
-2018-10-01,incomplete,ophthalmology,560238,total waiting list
-2018-10-01,incomplete,total,4969396,total waiting list
-2018-10-01,incomplete,trauma & orthopaedics,675506,total waiting list
-2018-10-01,new,dermatology,105298,new on waiting list
-2018-10-01,new,gastroenterology,94737,new on waiting list
-2018-10-01,new,ophthalmology,183329,new on waiting list
-2018-10-01,new,total,1848569,new on waiting list
-2018-10-01,new,trauma & orthopaedics,202163,new on waiting list
-2019-10-01,complete,dermatology,91574,started treatment
-2019-10-01,complete,gastroenterology,67400,started treatment
-2019-10-01,complete,ophthalmology,160851,started treatment
-2019-10-01,complete,total,1519629,started treatment
-2019-10-01,complete,trauma & orthopaedics,171664,started treatment
-2019-10-01,incomplete,dermatology,261713,total waiting list
-2019-10-01,incomplete,gastroenterology,266597,total waiting list
-2019-10-01,incomplete,ophthalmology,573755,total waiting list
-2019-10-01,incomplete,total,5268037,total waiting list
-2019-10-01,incomplete,trauma & orthopaedics,709071,total waiting list
-2019-10-01,new,dermatology,104335,new on waiting list
-2019-10-01,new,gastroenterology,97065,new on waiting list
-2019-10-01,new,ophthalmology,180033,new on waiting list
-2019-10-01,new,total,1819688,new on waiting list
-2019-10-01,new,trauma & orthopaedics,199076,new on waiting list
-2020-10-01,complete,dermatology,74931,started treatment
-2020-10-01,complete,gastroenterology,52235,started treatment
-2020-10-01,complete,ophthalmology,120914,started treatment
-2020-10-01,complete,total,1143667,started treatment
-2020-10-01,complete,trauma & orthopaedics,113741,started treatment
-2020-10-01,incomplete,dermatology,220745,total waiting list
-2020-10-01,incomplete,gastroenterology,295746,total waiting list
-2020-10-01,incomplete,ophthalmology,595097,total waiting list
-2020-10-01,incomplete,total,5333565,total waiting list
-2020-10-01,incomplete,trauma & orthopaedics,774509,total waiting list
-2020-10-01,new,dermatology,82821,new on waiting list
-2020-10-01,new,gastroenterology,76269,new on waiting list
-2020-10-01,new,ophthalmology,135453,new on waiting list
-2020-10-01,new,total,1399564,new on waiting list
-2020-10-01,new,trauma & orthopaedics,132292,new on waiting list
-2021-10-01,complete,dermatology,83901,started treatment
-2021-10-01,complete,gastroenterology,58624,started treatment
-2021-10-01,complete,ophthalmology,145015,started treatment
-2021-10-01,complete,total,1285995,started treatment
-2021-10-01,complete,trauma and orthopaedic,129482,started treatment
-2021-10-01,incomplete,dermatology,330706,total waiting list
-2021-10-01,incomplete,gastroenterology,379552,total waiting list
-2021-10-01,incomplete,ophthalmology,723906,total waiting list
-2021-10-01,incomplete,total,7011254,total waiting list
-2021-10-01,incomplete,trauma and orthopaedic,941277,total waiting list
-2021-10-01,new,dermatology,96538,new on waiting list
-2021-10-01,new,gastroenterology,84888,new on waiting list
-2021-10-01,new,ophthalmology,158000,new on waiting list
-2021-10-01,new,total,1592814,new on waiting list
-2021-10-01,new,trauma and orthopaedic,150405,new on waiting list
-2018-09-01,complete,dermatology,78852,started treatment
-2018-09-01,complete,gastroenterology,57455,started treatment
-2018-09-01,complete,ophthalmology,136484,started treatment
-2018-09-01,complete,total,1298229,started treatment
-2018-09-01,complete,trauma & orthopaedics,146449,started treatment
-2018-09-01,incomplete,dermatology,246530,total waiting list
-2018-09-01,incomplete,gastroenterology,235776,total waiting list
-2018-09-01,incomplete,ophthalmology,548329,total waiting list
-2018-09-01,incomplete,total,4902773,total waiting list
-2018-09-01,incomplete,trauma & orthopaedics,668302,total waiting list
-2018-09-01,new,dermatology,96652,new on waiting list
-2018-09-01,new,gastroenterology,79811,new on waiting list
-2018-09-01,new,ophthalmology,154278,new on waiting list
-2018-09-01,new,total,1559371,new on waiting list
-2018-09-01,new,trauma & orthopaedics,169629,new on waiting list
-2019-09-01,complete,dermatology,82716,started treatment
-2019-09-01,complete,gastroenterology,60957,started treatment
-2019-09-01,complete,ophthalmology,148728,started treatment
-2019-09-01,complete,total,1374394,started treatment
-2019-09-01,complete,trauma & orthopaedics,156227,started treatment
-2019-09-01,incomplete,dermatology,260575,total waiting list
-2019-09-01,incomplete,gastroenterology,260649,total waiting list
-2019-09-01,incomplete,ophthalmology,573248,total waiting list
-2019-09-01,incomplete,total,5221350,total waiting list
-2019-09-01,incomplete,trauma & orthopaedics,699780,total waiting list
-2019-09-01,new,dermatology,99545,new on waiting list
-2019-09-01,new,gastroenterology,85691,new on waiting list
-2019-09-01,new,ophthalmology,163093,new on waiting list
-2019-09-01,new,total,1643644,new on waiting list
-2019-09-01,new,trauma & orthopaedics,184529,new on waiting list
-2020-09-01,complete,dermatology,72090,started treatment
-2020-09-01,complete,gastroenterology,46626,started treatment
-2020-09-01,complete,ophthalmology,111175,started treatment
-2020-09-01,complete,total,1062776,started treatment
-2020-09-01,complete,trauma & orthopaedics,103230,started treatment
-2020-09-01,incomplete,dermatology,221658,total waiting list
-2020-09-01,incomplete,gastroenterology,289149,total waiting list
-2020-09-01,incomplete,ophthalmology,590562,total waiting list
-2020-09-01,incomplete,total,5261812,total waiting list
-2020-09-01,incomplete,trauma & orthopaedics,769534,total waiting list
-2020-09-01,new,dermatology,84217,new on waiting list
-2020-09-01,new,gastroenterology,74347,new on waiting list
-2020-09-01,new,ophthalmology,130567,new on waiting list
-2020-09-01,new,total,1338443,new on waiting list
-2020-09-01,new,trauma & orthopaedics,129407,new on waiting list
-2021-09-01,complete,dermatology,83546,started treatment
-2021-09-01,complete,gastroenterology,57352,started treatment
-2021-09-01,complete,ophthalmology,146889,started treatment
-2021-09-01,complete,total,1297821,started treatment
-2021-09-01,complete,trauma and orthopaedic,135492,started treatment
-2021-09-01,incomplete,dermatology,323535,total waiting list
-2021-09-01,incomplete,gastroenterology,369393,total waiting list
-2021-09-01,incomplete,ophthalmology,713969,total waiting list
-2021-09-01,incomplete,total,6854523,total waiting list
-2021-09-01,incomplete,trauma and orthopaedic,935003,total waiting list
-2021-09-01,new,dermatology,104744,new on waiting list
-2021-09-01,new,gastroenterology,85685,new on waiting list
-2021-09-01,new,ophthalmology,162154,new on waiting list
-2021-09-01,new,total,1631108,new on waiting list
-2021-09-01,new,trauma and orthopaedic,160721,new on waiting list
+period,specialty,total,type
+2018-04-01,dermatology,74146,started treatment
+2018-04-01,gastroenterology,58464,started treatment
+2018-04-01,ophthalmology,136415,started treatment
+2018-04-01,total,1294278,started treatment
+2018-04-01,trauma & orthopaedics,143110,started treatment
+2018-04-01,dermatology,208732,total waiting list
+2018-04-01,gastroenterology,231152,total waiting list
+2018-04-01,ophthalmology,519438,total waiting list
+2018-04-01,total,4787787,total waiting list
+2018-04-01,trauma & orthopaedics,640282,total waiting list
+2018-04-01,dermatology,93298,new on waiting list
+2018-04-01,gastroenterology,85988,new on waiting list
+2018-04-01,ophthalmology,159188,new on waiting list
+2018-04-01,total,1646372,new on waiting list
+2018-04-01,trauma & orthopaedics,168744,new on waiting list
+2019-04-01,dermatology,77401,started treatment
+2019-04-01,gastroenterology,59576,started treatment
+2019-04-01,ophthalmology,138960,started treatment
+2019-04-01,total,1331005,started treatment
+2019-04-01,trauma & orthopaedics,151202,started treatment
+2019-04-01,dermatology,220670,total waiting list
+2019-04-01,gastroenterology,264398,total waiting list
+2019-04-01,ophthalmology,566095,total waiting list
+2019-04-01,total,5099733,total waiting list
+2019-04-01,trauma & orthopaedics,671005,total waiting list
+2019-04-01,dermatology,94077,new on waiting list
+2019-04-01,gastroenterology,86449,new on waiting list
+2019-04-01,ophthalmology,161635,new on waiting list
+2019-04-01,total,1661737,new on waiting list
+2019-04-01,trauma & orthopaedics,181623,new on waiting list
+2020-04-01,dermatology,34162,started treatment
+2020-04-01,gastroenterology,24144,started treatment
+2020-04-01,ophthalmology,35415,started treatment
+2020-04-01,total,572179,started treatment
+2020-04-01,trauma & orthopaedics,45313,started treatment
+2020-04-01,dermatology,201413,total waiting list
+2020-04-01,gastroenterology,233945,total waiting list
+2020-04-01,ophthalmology,548209,total waiting list
+2020-04-01,total,4808203,total waiting list
+2020-04-01,trauma & orthopaedics,652742,total waiting list
+2020-04-01,dermatology,25489,new on waiting list
+2020-04-01,gastroenterology,26281,new on waiting list
+2020-04-01,ophthalmology,33634,new on waiting list
+2020-04-01,total,493749,new on waiting list
+2020-04-01,trauma & orthopaedics,34407,new on waiting list
+2021-04-01,dermatology,74498,started treatment
+2021-04-01,gastroenterology,53544,started treatment
+2021-04-01,ophthalmology,124273,started treatment
+2021-04-01,total,1163179,started treatment
+2021-04-01,trauma and orthopaedic,110211,started treatment
+2021-04-01,dermatology,240366,total waiting list
+2021-04-01,gastroenterology,340475,total waiting list
+2021-04-01,ophthalmology,655677,total waiting list
+2021-04-01,total,6165488,total waiting list
+2021-04-01,trauma and orthopaedic,885035,total waiting list
+2021-04-01,dermatology,96812,new on waiting list
+2021-04-01,gastroenterology,84445,new on waiting list
+2021-04-01,ophthalmology,148857,new on waiting list
+2021-04-01,total,1502736,new on waiting list
+2021-04-01,trauma and orthopaedic,135506,new on waiting list
+2022-04-01,dermatology,77894,started treatment
+2022-04-01,gastroenterology,51794,started treatment
+2022-04-01,ophthalmology,136564,started treatment
+2022-04-01,total,1180062,started treatment
+2022-04-01,trauma and orthopaedic,118871,started treatment
+2022-04-01,dermatology,347433,total waiting list
+2022-04-01,gastroenterology,391745,total waiting list
+2022-04-01,ophthalmology,788399,total waiting list
+2022-04-01,total,7560519,total waiting list
+2022-04-01,trauma and orthopaedic,986239,total waiting list
+2022-04-01,dermatology,92532,new on waiting list
+2022-04-01,gastroenterology,77634,new on waiting list
+2022-04-01,ophthalmology,155162,new on waiting list
+2022-04-01,total,1500606,new on waiting list
+2022-04-01,trauma and orthopaedic,143019,new on waiting list
+2018-08-01,dermatology,81043,started treatment
+2018-08-01,gastroenterology,57482,started treatment
+2018-08-01,ophthalmology,136738,started treatment
+2018-08-01,total,1311754,started treatment
+2018-08-01,trauma & orthopaedics,147044,started treatment
+2018-08-01,dermatology,243631,total waiting list
+2018-08-01,gastroenterology,235668,total waiting list
+2018-08-01,ophthalmology,546117,total waiting list
+2018-08-01,total,4931967,total waiting list
+2018-08-01,trauma & orthopaedics,669722,total waiting list
+2018-08-01,dermatology,105665,new on waiting list
+2018-08-01,gastroenterology,84332,new on waiting list
+2018-08-01,ophthalmology,158582,new on waiting list
+2018-08-01,total,1639833,new on waiting list
+2018-08-01,trauma & orthopaedics,178207,new on waiting list
+2019-08-01,dermatology,78496,started treatment
+2019-08-01,gastroenterology,57768,started treatment
+2019-08-01,ophthalmology,137493,started treatment
+2019-08-01,total,1286595,started treatment
+2019-08-01,trauma & orthopaedics,143865,started treatment
+2019-08-01,dermatology,255864,total waiting list
+2019-08-01,gastroenterology,259231,total waiting list
+2019-08-01,ophthalmology,573719,total waiting list
+2019-08-01,total,5206902,total waiting list
+2019-08-01,trauma & orthopaedics,693907,total waiting list
+2019-08-01,dermatology,99133,new on waiting list
+2019-08-01,gastroenterology,84904,new on waiting list
+2019-08-01,ophthalmology,155772,new on waiting list
+2019-08-01,total,1582750,new on waiting list
+2019-08-01,trauma & orthopaedics,174028,new on waiting list
+2020-08-01,dermatology,58115,started treatment
+2020-08-01,gastroenterology,36643,started treatment
+2020-08-01,ophthalmology,83133,started treatment
+2020-08-01,total,827396,started treatment
+2020-08-01,trauma & orthopaedics,74800,started treatment
+2020-08-01,dermatology,209447,total waiting list
+2020-08-01,gastroenterology,273928,total waiting list
+2020-08-01,ophthalmology,585113,total waiting list
+2020-08-01,total,5139208,total waiting list
+2020-08-01,trauma & orthopaedics,745241,total waiting list
+2020-08-01,dermatology,73818,new on waiting list
+2020-08-01,gastroenterology,61555,new on waiting list
+2020-08-01,ophthalmology,106816,new on waiting list
+2020-08-01,total,1118376,new on waiting list
+2020-08-01,trauma & orthopaedics,106914,new on waiting list
+2021-08-01,dermatology,75862,started treatment
+2021-08-01,gastroenterology,51151,started treatment
+2021-08-01,ophthalmology,128417,started treatment
+2021-08-01,total,1142835,started treatment
+2021-08-01,trauma and orthopaedic,119393,started treatment
+2021-08-01,dermatology,310021,total waiting list
+2021-08-01,gastroenterology,363714,total waiting list
+2021-08-01,ophthalmology,703830,total waiting list
+2021-08-01,total,6733462,total waiting list
+2021-08-01,trauma and orthopaedic,928892,total waiting list
+2021-08-01,dermatology,97819,new on waiting list
+2021-08-01,gastroenterology,80030,new on waiting list
+2021-08-01,ophthalmology,147738,new on waiting list
+2021-08-01,total,1473439,new on waiting list
+2021-08-01,trauma and orthopaedic,146707,new on waiting list
+2018-12-01,dermatology,71245,started treatment
+2018-12-01,gastroenterology,54001,started treatment
+2018-12-01,ophthalmology,124246,started treatment
+2018-12-01,total,1193728,started treatment
+2018-12-01,trauma & orthopaedics,134947,started treatment
+2018-12-01,dermatology,225133,total waiting list
+2018-12-01,gastroenterology,245879,total waiting list
+2018-12-01,ophthalmology,562848,total waiting list
+2018-12-01,total,4938557,total waiting list
+2018-12-01,trauma & orthopaedics,661267,total waiting list
+2018-12-01,dermatology,75783,new on waiting list
+2018-12-01,gastroenterology,77775,new on waiting list
+2018-12-01,ophthalmology,137636,new on waiting list
+2018-12-01,total,1436330,new on waiting list
+2018-12-01,trauma & orthopaedics,148422,new on waiting list
+2019-12-01,dermatology,73419,started treatment
+2019-12-01,gastroenterology,54538,started treatment
+2019-12-01,ophthalmology,129405,started treatment
+2019-12-01,total,1224112,started treatment
+2019-12-01,trauma & orthopaedics,133337,started treatment
+2019-12-01,dermatology,244442,total waiting list
+2019-12-01,gastroenterology,266184,total waiting list
+2019-12-01,ophthalmology,573053,total waiting list
+2019-12-01,total,5258135,total waiting list
+2019-12-01,trauma & orthopaedics,710272,total waiting list
+2019-12-01,dermatology,77437,new on waiting list
+2019-12-01,gastroenterology,79825,new on waiting list
+2019-12-01,ophthalmology,144030,new on waiting list
+2019-12-01,total,1464706,new on waiting list
+2019-12-01,trauma & orthopaedics,152917,new on waiting list
+2020-12-01,dermatology,69787,started treatment
+2020-12-01,gastroenterology,46789,started treatment
+2020-12-01,ophthalmology,109217,started treatment
+2020-12-01,total,1043729,started treatment
+2020-12-01,trauma & orthopaedics,98347,started treatment
+2020-12-01,dermatology,207967,total waiting list
+2020-12-01,gastroenterology,299833,total waiting list
+2020-12-01,ophthalmology,592583,total waiting list
+2020-12-01,total,5407843,total waiting list
+2020-12-01,trauma & orthopaedics,777822,total waiting list
+2020-12-01,dermatology,70921,new on waiting list
+2020-12-01,gastroenterology,73183,new on waiting list
+2020-12-01,ophthalmology,118360,new on waiting list
+2020-12-01,total,1265602,new on waiting list
+2020-12-01,trauma & orthopaedics,108780,new on waiting list
+2021-12-01,dermatology,72633,started treatment
+2021-12-01,gastroenterology,52807,started treatment
+2021-12-01,ophthalmology,125577,started treatment
+2021-12-01,total,1175045,started treatment
+2021-12-01,trauma and orthopaedic,117406,started treatment
+2021-12-01,dermatology,327005,total waiting list
+2021-12-01,gastroenterology,377985,total waiting list
+2021-12-01,ophthalmology,737142,total waiting list
+2021-12-01,total,7117272,total waiting list
+2021-12-01,trauma and orthopaedic,942884,total waiting list
+2021-12-01,dermatology,77121,new on waiting list
+2021-12-01,gastroenterology,76345,new on waiting list
+2021-12-01,ophthalmology,139148,new on waiting list
+2021-12-01,total,1431774,new on waiting list
+2021-12-01,trauma and orthopaedic,131452,new on waiting list
+2019-02-01,dermatology,74585,started treatment
+2019-02-01,gastroenterology,59865,started treatment
+2019-02-01,ophthalmology,140566,started treatment
+2019-02-01,total,1322633,started treatment
+2019-02-01,trauma & orthopaedics,146422,started treatment
+2019-02-01,dermatology,213969,total waiting list
+2019-02-01,gastroenterology,253174,total waiting list
+2019-02-01,ophthalmology,548115,total waiting list
+2019-02-01,total,4935400,total waiting list
+2019-02-01,trauma & orthopaedics,666182,total waiting list
+2019-02-01,dermatology,90251,new on waiting list
+2019-02-01,gastroenterology,87907,new on waiting list
+2019-02-01,ophthalmology,156447,new on waiting list
+2019-02-01,total,1644131,new on waiting list
+2019-02-01,trauma & orthopaedics,172222,new on waiting list
+2020-02-01,dermatology,81501,started treatment
+2020-02-01,gastroenterology,60523,started treatment
+2020-02-01,ophthalmology,144312,started treatment
+2020-02-01,total,1346386,started treatment
+2020-02-01,trauma & orthopaedics,146918,started treatment
+2020-02-01,dermatology,238055,total waiting list
+2020-02-01,gastroenterology,265044,total waiting list
+2020-02-01,ophthalmology,567452,total waiting list
+2020-02-01,total,5276427,total waiting list
+2020-02-01,trauma & orthopaedics,708506,total waiting list
+2020-02-01,dermatology,90163,new on waiting list
+2020-02-01,gastroenterology,84768,new on waiting list
+2020-02-01,ophthalmology,158654,new on waiting list
+2020-02-01,total,1604870,new on waiting list
+2020-02-01,trauma & orthopaedics,168478,new on waiting list
+2021-02-01,dermatology,65861,started treatment
+2021-02-01,gastroenterology,47682,started treatment
+2021-02-01,ophthalmology,99678,started treatment
+2021-02-01,total,975931,started treatment
+2021-02-01,trauma & orthopaedics,82742,started treatment
+2021-02-01,dermatology,208903,total waiting list
+2021-02-01,gastroenterology,309128,total waiting list
+2021-02-01,ophthalmology,616578,total waiting list
+2021-02-01,total,5682441,total waiting list
+2021-02-01,trauma & orthopaedics,835752,total waiting list
+2021-02-01,dermatology,76098,new on waiting list
+2021-02-01,gastroenterology,71597,new on waiting list
+2021-02-01,ophthalmology,115625,new on waiting list
+2021-02-01,total,1258329,new on waiting list
+2021-02-01,trauma & orthopaedics,105521,new on waiting list
+2022-02-01,dermatology,80056,started treatment
+2022-02-01,gastroenterology,55820,started treatment
+2022-02-01,ophthalmology,141845,started treatment
+2022-02-01,total,1262524,started treatment
+2022-02-01,trauma and orthopaedic,125570,started treatment
+2022-02-01,dermatology,334221,total waiting list
+2022-02-01,gastroenterology,373724,total waiting list
+2022-02-01,ophthalmology,731966,total waiting list
+2022-02-01,total,7245304,total waiting list
+2022-02-01,trauma and orthopaedic,955719,total waiting list
+2022-02-01,dermatology,93076,new on waiting list
+2022-02-01,gastroenterology,80055,new on waiting list
+2022-02-01,ophthalmology,151877,new on waiting list
+2022-02-01,total,1551530,new on waiting list
+2022-02-01,trauma and orthopaedic,145335,new on waiting list
+2019-01-01,dermatology,84920,started treatment
+2019-01-01,gastroenterology,67207,started treatment
+2019-01-01,ophthalmology,158089,started treatment
+2019-01-01,total,1506163,started treatment
+2019-01-01,trauma & orthopaedics,168325,started treatment
+2019-01-01,dermatology,222212,total waiting list
+2019-01-01,gastroenterology,252213,total waiting list
+2019-01-01,ophthalmology,555097,total waiting list
+2019-01-01,total,4978299,total waiting list
+2019-01-01,trauma & orthopaedics,668008,total waiting list
+2019-01-01,dermatology,99158,new on waiting list
+2019-01-01,gastroenterology,95989,new on waiting list
+2019-01-01,ophthalmology,168193,new on waiting list
+2019-01-01,total,1800389,new on waiting list
+2019-01-01,trauma & orthopaedics,187682,new on waiting list
+2020-01-01,dermatology,85181,started treatment
+2020-01-01,gastroenterology,65706,started treatment
+2020-01-01,ophthalmology,156545,started treatment
+2020-01-01,total,1470369,started treatment
+2020-01-01,trauma & orthopaedics,162674,started treatment
+2020-01-01,dermatology,239452,total waiting list
+2020-01-01,gastroenterology,265897,total waiting list
+2020-01-01,ophthalmology,568257,total waiting list
+2020-01-01,total,5270370,total waiting list
+2020-01-01,trauma & orthopaedics,710085,total waiting list
+2020-01-01,dermatology,94075,new on waiting list
+2020-01-01,gastroenterology,93882,new on waiting list
+2020-01-01,ophthalmology,169740,new on waiting list
+2020-01-01,total,1743073,new on waiting list
+2020-01-01,trauma & orthopaedics,182242,new on waiting list
+2021-01-01,dermatology,63750,started treatment
+2021-01-01,gastroenterology,47298,started treatment
+2021-01-01,ophthalmology,95448,started treatment
+2021-01-01,total,965662,started treatment
+2021-01-01,trauma & orthopaedics,82197,started treatment
+2021-01-01,dermatology,205947,total waiting list
+2021-01-01,gastroenterology,308202,total waiting list
+2021-01-01,ophthalmology,604401,total waiting list
+2021-01-01,total,5536142,total waiting list
+2021-01-01,trauma & orthopaedics,809990,total waiting list
+2021-01-01,dermatology,65276,new on waiting list
+2021-01-01,gastroenterology,69570,new on waiting list
+2021-01-01,ophthalmology,107204,new on waiting list
+2021-01-01,total,1189664,new on waiting list
+2021-01-01,trauma & orthopaedics,103273,new on waiting list
+2022-01-01,dermatology,76130,started treatment
+2022-01-01,gastroenterology,57553,started treatment
+2022-01-01,ophthalmology,137134,started treatment
+2022-01-01,total,1242605,started treatment
+2022-01-01,trauma and orthopaedic,119858,started treatment
+2022-01-01,dermatology,328665,total waiting list
+2022-01-01,gastroenterology,373914,total waiting list
+2022-01-01,ophthalmology,727853,total waiting list
+2022-01-01,total,7164436,total waiting list
+2022-01-01,trauma and orthopaedic,950483,total waiting list
+2022-01-01,dermatology,89369,new on waiting list
+2022-01-01,gastroenterology,78133,new on waiting list
+2022-01-01,ophthalmology,146459,new on waiting list
+2022-01-01,total,1517832,new on waiting list
+2022-01-01,trauma and orthopaedic,139937,new on waiting list
+2018-07-01,dermatology,84052,started treatment
+2018-07-01,gastroenterology,60850,started treatment
+2018-07-01,ophthalmology,143380,started treatment
+2018-07-01,total,1400413,started treatment
+2018-07-01,trauma & orthopaedics,156243,started treatment
+2018-07-01,dermatology,234028,total waiting list
+2018-07-01,gastroenterology,232002,total waiting list
+2018-07-01,ophthalmology,538016,total waiting list
+2018-07-01,total,4909522,total waiting list
+2018-07-01,trauma & orthopaedics,661834,total waiting list
+2018-07-01,dermatology,109317,new on waiting list
+2018-07-01,gastroenterology,87109,new on waiting list
+2018-07-01,ophthalmology,164058,new on waiting list
+2018-07-01,total,1722836,new on waiting list
+2018-07-01,trauma & orthopaedics,187705,new on waiting list
+2019-07-01,dermatology,89193,started treatment
+2019-07-01,gastroenterology,67432,started treatment
+2019-07-01,ophthalmology,156466,started treatment
+2019-07-01,total,1498726,started treatment
+2019-07-01,trauma & orthopaedics,169015,started treatment
+2019-07-01,dermatology,245094,total waiting list
+2019-07-01,gastroenterology,259110,total waiting list
+2019-07-01,ophthalmology,573714,total waiting list
+2019-07-01,total,5177515,total waiting list
+2019-07-01,trauma & orthopaedics,681945,total waiting list
+2019-07-01,dermatology,112993,new on waiting list
+2019-07-01,gastroenterology,95216,new on waiting list
+2019-07-01,ophthalmology,173514,new on waiting list
+2019-07-01,total,1808020,new on waiting list
+2019-07-01,trauma & orthopaedics,199031,new on waiting list
+2020-07-01,dermatology,62650,started treatment
+2020-07-01,gastroenterology,39581,started treatment
+2020-07-01,ophthalmology,75346,started treatment
+2020-07-01,total,874031,started treatment
+2020-07-01,trauma & orthopaedics,68263,started treatment
+2020-07-01,dermatology,198135,total waiting list
+2020-07-01,gastroenterology,257034,total waiting list
+2020-07-01,ophthalmology,564770,total waiting list
+2020-07-01,total,4971452,total waiting list
+2020-07-01,trauma & orthopaedics,719242,total waiting list
+2020-07-01,dermatology,75688,new on waiting list
+2020-07-01,gastroenterology,66692,new on waiting list
+2020-07-01,ophthalmology,96610,new on waiting list
+2020-07-01,total,1182821,new on waiting list
+2020-07-01,trauma & orthopaedics,107666,new on waiting list
+2021-07-01,dermatology,80047,started treatment
+2021-07-01,gastroenterology,56736,started treatment
+2021-07-01,ophthalmology,137897,started treatment
+2021-07-01,total,1266129,started treatment
+2021-07-01,trauma and orthopaedic,135057,started treatment
+2021-07-01,dermatology,297930,total waiting list
+2021-07-01,gastroenterology,359419,total waiting list
+2021-07-01,ophthalmology,698833,total waiting list
+2021-07-01,total,6635976,total waiting list
+2021-07-01,trauma and orthopaedic,920997,total waiting list
+2021-07-01,dermatology,106519,new on waiting list
+2021-07-01,gastroenterology,86611,new on waiting list
+2021-07-01,ophthalmology,160338,new on waiting list
+2021-07-01,total,1610221,new on waiting list
+2021-07-01,trauma and orthopaedic,158337,new on waiting list
+2022-07-01,dermatology,80831,started treatment
+2022-07-01,gastroenterology,56770,started treatment
+2022-07-01,ophthalmology,148260,started treatment
+2022-07-01,total,1284485,started treatment
+2022-07-01,trauma and orthopaedic,132113,started treatment
+2022-07-01,dermatology,389669,total waiting list
+2022-07-01,gastroenterology,405360,total waiting list
+2022-07-01,ophthalmology,787253,total waiting list
+2022-07-01,total,7932001,total waiting list
+2022-07-01,trauma and orthopaedic,1017756,total waiting list
+2022-07-01,dermatology,106485,new on waiting list
+2022-07-01,gastroenterology,82975,new on waiting list
+2022-07-01,ophthalmology,158112,new on waiting list
+2022-07-01,total,1607262,new on waiting list
+2022-07-01,trauma and orthopaedic,155031,new on waiting list
+2018-06-01,dermatology,81627,started treatment
+2018-06-01,gastroenterology,59028,started treatment
+2018-06-01,ophthalmology,142782,started treatment
+2018-06-01,total,1368627,started treatment
+2018-06-01,trauma & orthopaedics,150406,started treatment
+2018-06-01,dermatology,224085,total waiting list
+2018-06-01,gastroenterology,231291,total waiting list
+2018-06-01,ophthalmology,534414,total waiting list
+2018-06-01,total,4894288,total waiting list
+2018-06-01,trauma & orthopaedics,655466,total waiting list
+2018-06-01,dermatology,103417,new on waiting list
+2018-06-01,gastroenterology,83697,new on waiting list
+2018-06-01,ophthalmology,163291,new on waiting list
+2018-06-01,total,1683143,new on waiting list
+2018-06-01,trauma & orthopaedics,183216,new on waiting list
+2019-06-01,dermatology,81028,started treatment
+2019-06-01,gastroenterology,61337,started treatment
+2019-06-01,ophthalmology,143741,started treatment
+2019-06-01,total,1358247,started treatment
+2019-06-01,trauma & orthopaedics,152217,started treatment
+2019-06-01,dermatology,238077,total waiting list
+2019-06-01,gastroenterology,261325,total waiting list
+2019-06-01,ophthalmology,578231,total waiting list
+2019-06-01,total,5206026,total waiting list
+2019-06-01,trauma & orthopaedics,680847,total waiting list
+2019-06-01,dermatology,98670,new on waiting list
+2019-06-01,gastroenterology,85935,new on waiting list
+2019-06-01,ophthalmology,160155,new on waiting list
+2019-06-01,total,1647201,new on waiting list
+2019-06-01,trauma & orthopaedics,180173,new on waiting list
+2020-06-01,dermatology,54972,started treatment
+2020-06-01,gastroenterology,35249,started treatment
+2020-06-01,ophthalmology,52036,started treatment
+2020-06-01,total,760442,started treatment
+2020-06-01,trauma & orthopaedics,56080,started treatment
+2020-06-01,dermatology,190887,total waiting list
+2020-06-01,gastroenterology,237714,total waiting list
+2020-06-01,ophthalmology,539966,total waiting list
+2020-06-01,total,4763916,total waiting list
+2020-06-01,trauma & orthopaedics,676216,total waiting list
+2020-06-01,dermatology,61891,new on waiting list
+2020-06-01,gastroenterology,53294,new on waiting list
+2020-06-01,ophthalmology,61665,new on waiting list
+2020-06-01,total,942917,new on waiting list
+2020-06-01,trauma & orthopaedics,80954,new on waiting list
+2021-06-01,dermatology,85794,started treatment
+2021-06-01,gastroenterology,60405,started treatment
+2021-06-01,ophthalmology,145352,started treatment
+2021-06-01,total,1343311,started treatment
+2021-06-01,trauma and orthopaedic,138718,started treatment
+2021-06-01,dermatology,277733,total waiting list
+2021-06-01,gastroenterology,353029,total waiting list
+2021-06-01,ophthalmology,684242,total waiting list
+2021-06-01,total,6489881,total waiting list
+2021-06-01,trauma and orthopaedic,911638,total waiting list
+2021-06-01,dermatology,113281,new on waiting list
+2021-06-01,gastroenterology,88803,new on waiting list
+2021-06-01,ophthalmology,165921,new on waiting list
+2021-06-01,total,1680207,new on waiting list
+2021-06-01,trauma and orthopaedic,165552,new on waiting list
+2022-06-01,dermatology,84685,started treatment
+2022-06-01,gastroenterology,57592,started treatment
+2022-06-01,ophthalmology,149805,started treatment
+2022-06-01,total,1305090,started treatment
+2022-06-01,trauma and orthopaedic,135517,started treatment
+2022-06-01,dermatology,375315,total waiting list
+2022-06-01,gastroenterology,401200,total waiting list
+2022-06-01,ophthalmology,783426,total waiting list
+2022-06-01,total,7817122,total waiting list
+2022-06-01,trauma and orthopaedic,1009476,total waiting list
+2022-06-01,dermatology,103996,new on waiting list
+2022-06-01,gastroenterology,82214,new on waiting list
+2022-06-01,ophthalmology,161295,new on waiting list
+2022-06-01,total,1602510,new on waiting list
+2022-06-01,trauma and orthopaedic,157080,new on waiting list
+2019-03-01,dermatology,79463,started treatment
+2019-03-01,gastroenterology,62914,started treatment
+2019-03-01,ophthalmology,147438,started treatment
+2019-03-01,total,1406375,started treatment
+2019-03-01,trauma & orthopaedics,157532,started treatment
+2019-03-01,dermatology,218974,total waiting list
+2019-03-01,gastroenterology,258038,total waiting list
+2019-03-01,ophthalmology,559177,total waiting list
+2019-03-01,total,5031039,total waiting list
+2019-03-01,trauma & orthopaedics,669735,total waiting list
+2019-03-01,dermatology,97361,new on waiting list
+2019-03-01,gastroenterology,90968,new on waiting list
+2019-03-01,ophthalmology,169255,new on waiting list
+2019-03-01,total,1747038,new on waiting list
+2019-03-01,trauma & orthopaedics,186371,new on waiting list
+2020-03-01,dermatology,74667,started treatment
+2020-03-01,gastroenterology,55412,started treatment
+2020-03-01,ophthalmology,114473,started treatment
+2020-03-01,total,1190890,started treatment
+2020-03-01,trauma & orthopaedics,130624,started treatment
+2020-03-01,dermatology,217653,total waiting list
+2020-03-01,gastroenterology,250883,total waiting list
+2020-03-01,ophthalmology,554211,total waiting list
+2020-03-01,total,5069140,total waiting list
+2020-03-01,trauma & orthopaedics,676088,total waiting list
+2020-03-01,dermatology,65263,new on waiting list
+2020-03-01,gastroenterology,65936,new on waiting list
+2020-03-01,ophthalmology,117834,new on waiting list
+2020-03-01,total,1224810,new on waiting list
+2020-03-01,trauma & orthopaedics,119823,new on waiting list
+2021-03-01,dermatology,84288,started treatment
+2021-03-01,gastroenterology,57531,started treatment
+2021-03-01,ophthalmology,130485,started treatment
+2021-03-01,total,1238570,started treatment
+2021-03-01,trauma & orthopaedics,107635,started treatment
+2021-03-01,dermatology,223640,total waiting list
+2021-03-01,gastroenterology,327468,total waiting list
+2021-03-01,ophthalmology,635638,total waiting list
+2021-03-01,total,5972529,total waiting list
+2021-03-01,trauma & orthopaedics,866263,total waiting list
+2021-03-01,dermatology,100964,new on waiting list
+2021-03-01,gastroenterology,90780,new on waiting list
+2021-03-01,ophthalmology,155162,new on waiting list
+2021-03-01,total,1621904,new on waiting list
+2021-03-01,trauma & orthopaedics,135991,new on waiting list
+2022-03-01,dermatology,90299,started treatment
+2022-03-01,gastroenterology,64010,started treatment
+2022-03-01,ophthalmology,163219,started treatment
+2022-03-01,total,1444546,started treatment
+2022-03-01,trauma and orthopaedic,143482,started treatment
+2022-03-01,dermatology,341447,total waiting list
+2022-03-01,gastroenterology,386279,total waiting list
+2022-03-01,ophthalmology,773654,total waiting list
+2022-03-01,total,7446729,total waiting list
+2022-03-01,trauma and orthopaedic,983971,total waiting list
+2022-03-01,dermatology,104611,new on waiting list
+2022-03-01,gastroenterology,91684,new on waiting list
+2022-03-01,ophthalmology,180239,new on waiting list
+2022-03-01,total,1790474,new on waiting list
+2022-03-01,trauma and orthopaedic,169501,new on waiting list
+2018-05-01,dermatology,80210,started treatment
+2018-05-01,gastroenterology,62124,started treatment
+2018-05-01,ophthalmology,146364,started treatment
+2018-05-01,total,1404606,started treatment
+2018-05-01,trauma & orthopaedics,157245,started treatment
+2018-05-01,dermatology,217562,total waiting list
+2018-05-01,gastroenterology,231230,total waiting list
+2018-05-01,ophthalmology,531137,total waiting list
+2018-05-01,total,4864148,total waiting list
+2018-05-01,trauma & orthopaedics,649010,total waiting list
+2018-05-01,dermatology,103561,new on waiting list
+2018-05-01,gastroenterology,87532,new on waiting list
+2018-05-01,ophthalmology,170604,new on waiting list
+2018-05-01,total,1752547,new on waiting list
+2018-05-01,trauma & orthopaedics,186987,new on waiting list
+2019-05-01,dermatology,81271,started treatment
+2019-05-01,gastroenterology,62923,started treatment
+2019-05-01,ophthalmology,147923,started treatment
+2019-05-01,total,1403228,started treatment
+2019-05-01,trauma & orthopaedics,159967,started treatment
+2019-05-01,dermatology,230720,total waiting list
+2019-05-01,gastroenterology,266284,total waiting list
+2019-05-01,ophthalmology,576473,total waiting list
+2019-05-01,total,5197434,total waiting list
+2019-05-01,trauma & orthopaedics,679979,total waiting list
+2019-05-01,dermatology,102472,new on waiting list
+2019-05-01,gastroenterology,89660,new on waiting list
+2019-05-01,ophthalmology,171134,new on waiting list
+2019-05-01,total,1761403,new on waiting list
+2019-05-01,trauma & orthopaedics,194230,new on waiting list
+2020-05-01,dermatology,38211,started treatment
+2020-05-01,gastroenterology,25276,started treatment
+2020-05-01,ophthalmology,36864,started treatment
+2020-05-01,total,564885,started treatment
+2020-05-01,trauma & orthopaedics,40113,started treatment
+2020-05-01,dermatology,194432,total waiting list
+2020-05-01,gastroenterology,233134,total waiting list
+2020-05-01,ophthalmology,538416,total waiting list
+2020-05-01,total,4733229,total waiting list
+2020-05-01,trauma & orthopaedics,655830,total waiting list
+2020-05-01,dermatology,40159,new on waiting list
+2020-05-01,gastroenterology,36370,new on waiting list
+2020-05-01,ophthalmology,37573,new on waiting list
+2020-05-01,total,629424,new on waiting list
+2020-05-01,trauma & orthopaedics,49151,new on waiting list
+2021-05-01,dermatology,76431,started treatment
+2021-05-01,gastroenterology,55415,started treatment
+2021-05-01,ophthalmology,127602,started treatment
+2021-05-01,total,1202732,started treatment
+2021-05-01,trauma and orthopaedic,121417,started treatment
+2021-05-01,dermatology,256449,total waiting list
+2021-05-01,gastroenterology,345621,total waiting list
+2021-05-01,ophthalmology,669036,total waiting list
+2021-05-01,total,6351736,total waiting list
+2021-05-01,trauma and orthopaedic,894051,total waiting list
+2021-05-01,dermatology,94891,new on waiting list
+2021-05-01,gastroenterology,82147,new on waiting list
+2021-05-01,ophthalmology,147558,new on waiting list
+2021-05-01,total,1521120,new on waiting list
+2021-05-01,trauma and orthopaedic,144382,new on waiting list
+2022-05-01,dermatology,89540,started treatment
+2022-05-01,gastroenterology,61624,started treatment
+2022-05-01,ophthalmology,159028,started treatment
+2022-05-01,total,1393273,started treatment
+2022-05-01,trauma and orthopaedic,144501,started treatment
+2022-05-01,dermatology,362031,total waiting list
+2022-05-01,gastroenterology,395012,total waiting list
+2022-05-01,ophthalmology,773815,total waiting list
+2022-05-01,total,7691020,total waiting list
+2022-05-01,trauma and orthopaedic,999434,total waiting list
+2022-05-01,dermatology,110903,new on waiting list
+2022-05-01,gastroenterology,88003,new on waiting list
+2022-05-01,ophthalmology,173141,new on waiting list
+2022-05-01,total,1738506,new on waiting list
+2022-05-01,trauma and orthopaedic,170984,new on waiting list
+2018-11-01,dermatology,87724,started treatment
+2018-11-01,gastroenterology,64806,started treatment
+2018-11-01,ophthalmology,156236,started treatment
+2018-11-01,total,1490082,started treatment
+2018-11-01,trauma & orthopaedics,168945,started treatment
+2018-11-01,dermatology,235301,total waiting list
+2018-11-01,gastroenterology,243267,total waiting list
+2018-11-01,ophthalmology,560818,total waiting list
+2018-11-01,total,4929450,total waiting list
+2018-11-01,trauma & orthopaedics,669367,total waiting list
+2018-11-01,dermatology,97933,new on waiting list
+2018-11-01,gastroenterology,90606,new on waiting list
+2018-11-01,ophthalmology,173240,new on waiting list
+2018-11-01,total,1764247,new on waiting list
+2018-11-01,trauma & orthopaedics,189621,new on waiting list
+2019-11-01,dermatology,85861,started treatment
+2019-11-01,gastroenterology,64309,started treatment
+2019-11-01,ophthalmology,155148,started treatment
+2019-11-01,total,1428493,started treatment
+2019-11-01,trauma & orthopaedics,157214,started treatment
+2019-11-01,dermatology,253717,total waiting list
+2019-11-01,gastroenterology,264529,total waiting list
+2019-11-01,ophthalmology,571899,total waiting list
+2019-11-01,total,5244535,total waiting list
+2019-11-01,trauma & orthopaedics,700010,total waiting list
+2019-11-01,dermatology,91906,new on waiting list
+2019-11-01,gastroenterology,88241,new on waiting list
+2019-11-01,ophthalmology,165952,new on waiting list
+2019-11-01,total,1663039,new on waiting list
+2019-11-01,trauma & orthopaedics,174299,new on waiting list
+2020-11-01,dermatology,77355,started treatment
+2020-11-01,gastroenterology,53223,started treatment
+2020-11-01,ophthalmology,124955,started treatment
+2020-11-01,total,1169246,started treatment
+2020-11-01,trauma & orthopaedics,111693,started treatment
+2020-11-01,dermatology,212873,total waiting list
+2020-11-01,gastroenterology,293443,total waiting list
+2020-11-01,ophthalmology,590965,total waiting list
+2020-11-01,total,5336107,total waiting list
+2020-11-01,trauma & orthopaedics,775668,total waiting list
+2020-11-01,dermatology,78808,new on waiting list
+2020-11-01,gastroenterology,75227,new on waiting list
+2020-11-01,ophthalmology,132310,new on waiting list
+2020-11-01,total,1353340,new on waiting list
+2020-11-01,trauma & orthopaedics,122472,new on waiting list
+2021-11-01,dermatology,88238,started treatment
+2021-11-01,gastroenterology,63766,started treatment
+2021-11-01,ophthalmology,159022,started treatment
+2021-11-01,total,1427300,started treatment
+2021-11-01,trauma and orthopaedic,146724,started treatment
+2021-11-01,dermatology,330764,total waiting list
+2021-11-01,gastroenterology,374685,total waiting list
+2021-11-01,ophthalmology,726997,total waiting list
+2021-11-01,total,7025989,total waiting list
+2021-11-01,trauma and orthopaedic,938337,total waiting list
+2021-11-01,dermatology,97897,new on waiting list
+2021-11-01,gastroenterology,87970,new on waiting list
+2021-11-01,ophthalmology,168065,new on waiting list
+2021-11-01,total,1688466,new on waiting list
+2021-11-01,trauma and orthopaedic,162924,new on waiting list
+2018-10-01,dermatology,90643,started treatment
+2018-10-01,gastroenterology,66130,started treatment
+2018-10-01,ophthalmology,159004,started treatment
+2018-10-01,total,1515696,started treatment
+2018-10-01,trauma & orthopaedics,172664,started treatment
+2018-10-01,dermatology,242739,total waiting list
+2018-10-01,gastroenterology,245153,total waiting list
+2018-10-01,ophthalmology,560238,total waiting list
+2018-10-01,total,4969396,total waiting list
+2018-10-01,trauma & orthopaedics,675506,total waiting list
+2018-10-01,dermatology,105298,new on waiting list
+2018-10-01,gastroenterology,94737,new on waiting list
+2018-10-01,ophthalmology,183329,new on waiting list
+2018-10-01,total,1848569,new on waiting list
+2018-10-01,trauma & orthopaedics,202163,new on waiting list
+2019-10-01,dermatology,91574,started treatment
+2019-10-01,gastroenterology,67400,started treatment
+2019-10-01,ophthalmology,160851,started treatment
+2019-10-01,total,1519629,started treatment
+2019-10-01,trauma & orthopaedics,171664,started treatment
+2019-10-01,dermatology,261713,total waiting list
+2019-10-01,gastroenterology,266597,total waiting list
+2019-10-01,ophthalmology,573755,total waiting list
+2019-10-01,total,5268037,total waiting list
+2019-10-01,trauma & orthopaedics,709071,total waiting list
+2019-10-01,dermatology,104335,new on waiting list
+2019-10-01,gastroenterology,97065,new on waiting list
+2019-10-01,ophthalmology,180033,new on waiting list
+2019-10-01,total,1819688,new on waiting list
+2019-10-01,trauma & orthopaedics,199076,new on waiting list
+2020-10-01,dermatology,74931,started treatment
+2020-10-01,gastroenterology,52235,started treatment
+2020-10-01,ophthalmology,120914,started treatment
+2020-10-01,total,1143667,started treatment
+2020-10-01,trauma & orthopaedics,113741,started treatment
+2020-10-01,dermatology,220745,total waiting list
+2020-10-01,gastroenterology,295746,total waiting list
+2020-10-01,ophthalmology,595097,total waiting list
+2020-10-01,total,5333565,total waiting list
+2020-10-01,trauma & orthopaedics,774509,total waiting list
+2020-10-01,dermatology,82821,new on waiting list
+2020-10-01,gastroenterology,76269,new on waiting list
+2020-10-01,ophthalmology,135453,new on waiting list
+2020-10-01,total,1399564,new on waiting list
+2020-10-01,trauma & orthopaedics,132292,new on waiting list
+2021-10-01,dermatology,83901,started treatment
+2021-10-01,gastroenterology,58624,started treatment
+2021-10-01,ophthalmology,145015,started treatment
+2021-10-01,total,1285995,started treatment
+2021-10-01,trauma and orthopaedic,129482,started treatment
+2021-10-01,dermatology,330706,total waiting list
+2021-10-01,gastroenterology,379552,total waiting list
+2021-10-01,ophthalmology,723906,total waiting list
+2021-10-01,total,7011254,total waiting list
+2021-10-01,trauma and orthopaedic,941277,total waiting list
+2021-10-01,dermatology,96538,new on waiting list
+2021-10-01,gastroenterology,84888,new on waiting list
+2021-10-01,ophthalmology,158000,new on waiting list
+2021-10-01,total,1592814,new on waiting list
+2021-10-01,trauma and orthopaedic,150405,new on waiting list
+2018-09-01,dermatology,78852,started treatment
+2018-09-01,gastroenterology,57455,started treatment
+2018-09-01,ophthalmology,136484,started treatment
+2018-09-01,total,1298229,started treatment
+2018-09-01,trauma & orthopaedics,146449,started treatment
+2018-09-01,dermatology,246530,total waiting list
+2018-09-01,gastroenterology,235776,total waiting list
+2018-09-01,ophthalmology,548329,total waiting list
+2018-09-01,total,4902773,total waiting list
+2018-09-01,trauma & orthopaedics,668302,total waiting list
+2018-09-01,dermatology,96652,new on waiting list
+2018-09-01,gastroenterology,79811,new on waiting list
+2018-09-01,ophthalmology,154278,new on waiting list
+2018-09-01,total,1559371,new on waiting list
+2018-09-01,trauma & orthopaedics,169629,new on waiting list
+2019-09-01,dermatology,82716,started treatment
+2019-09-01,gastroenterology,60957,started treatment
+2019-09-01,ophthalmology,148728,started treatment
+2019-09-01,total,1374394,started treatment
+2019-09-01,trauma & orthopaedics,156227,started treatment
+2019-09-01,dermatology,260575,total waiting list
+2019-09-01,gastroenterology,260649,total waiting list
+2019-09-01,ophthalmology,573248,total waiting list
+2019-09-01,total,5221350,total waiting list
+2019-09-01,trauma & orthopaedics,699780,total waiting list
+2019-09-01,dermatology,99545,new on waiting list
+2019-09-01,gastroenterology,85691,new on waiting list
+2019-09-01,ophthalmology,163093,new on waiting list
+2019-09-01,total,1643644,new on waiting list
+2019-09-01,trauma & orthopaedics,184529,new on waiting list
+2020-09-01,dermatology,72090,started treatment
+2020-09-01,gastroenterology,46626,started treatment
+2020-09-01,ophthalmology,111175,started treatment
+2020-09-01,total,1062776,started treatment
+2020-09-01,trauma & orthopaedics,103230,started treatment
+2020-09-01,dermatology,221658,total waiting list
+2020-09-01,gastroenterology,289149,total waiting list
+2020-09-01,ophthalmology,590562,total waiting list
+2020-09-01,total,5261812,total waiting list
+2020-09-01,trauma & orthopaedics,769534,total waiting list
+2020-09-01,dermatology,84217,new on waiting list
+2020-09-01,gastroenterology,74347,new on waiting list
+2020-09-01,ophthalmology,130567,new on waiting list
+2020-09-01,total,1338443,new on waiting list
+2020-09-01,trauma & orthopaedics,129407,new on waiting list
+2021-09-01,dermatology,83546,started treatment
+2021-09-01,gastroenterology,57352,started treatment
+2021-09-01,ophthalmology,146889,started treatment
+2021-09-01,total,1297821,started treatment
+2021-09-01,trauma and orthopaedic,135492,started treatment
+2021-09-01,dermatology,323535,total waiting list
+2021-09-01,gastroenterology,369393,total waiting list
+2021-09-01,ophthalmology,713969,total waiting list
+2021-09-01,total,6854523,total waiting list
+2021-09-01,trauma and orthopaedic,935003,total waiting list
+2021-09-01,dermatology,104744,new on waiting list
+2021-09-01,gastroenterology,85685,new on waiting list
+2021-09-01,ophthalmology,162154,new on waiting list
+2021-09-01,total,1631108,new on waiting list
+2021-09-01,trauma and orthopaedic,160721,new on waiting list
