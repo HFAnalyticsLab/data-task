@@ -131,7 +131,7 @@ chart2 <- amb_data_monthly %>%
 ggplotly(chart2)
 ```
 
-[Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/amb-data.csv) (Source: NHS England Ambulance Quality Indicators)
+File [amb-data.csv](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/amb-data.csv) (Source: NHS England Ambulance Quality Indicators). Please refer to data sent with task.
 
 ### Data
 
@@ -178,7 +178,7 @@ chart3 <- rtt_data %>%
 ggplotly(chart3)
 ```
 
-[Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/rtt-data.csv) (Source: NHS England Consultant-led Referral to Treatment Waiting Times)
+File [rtt-data.csv](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/rtt-data.csv) (Source: NHS England Consultant-led Referral to Treatment Waiting Times). Please refer to data sent with task.
 
 ### Data
 
