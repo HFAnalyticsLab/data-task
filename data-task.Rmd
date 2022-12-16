@@ -28,10 +28,10 @@ rtt_data <- fread(files[3])
 
 ## Instructions
 
-- Deadline
-- Submission guidelines
-- Word limits for each answer
-- Etc
+Please email your answers to @health.org.uk by Friday 6 January 2023. 
+
+We are not expecting you to spend more than 3-4 hours on this task. Don't worry about making any plots or tables that you create look perfect. We are mainly interested to hear your thinking and any assumptions that you made. Please limit your answers to 300 words per task.
+
 
 ## Task 1: Daily ambulance arrivals
 
