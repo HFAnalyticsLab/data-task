@@ -37,7 +37,7 @@ rtt_data <- fread(files[3])
   - PDF
   - Rmarkdown or Jupyter Notebook
 
-- Please email your answers to nav.gudra@health.org.uk by 4PM Friday 6 January 2023. 
+- Please email your answers to nav.gudra@health.org.uk by **4PM Friday 6 January 2023**. 
 
 <!-- ## Task 1: Daily ambulance arrivals -->
 
@@ -92,14 +92,14 @@ rtt_data <- fread(files[3])
 
 This is data on the distribution of ambulance response times in England (mean and 90th percentile). Response times are reported separately for each type of incident, based on the following categories:
 
-Category 1: life threatening incident (such as cardiac or respiratory arrest)
-Category 2: emergency incident (such as stroke or chest pain)
-Category 3: urgent incident (such as an uncomplicated diabetic issue)
-Category 4: less urgent incident (stable clinical cases)
+- Category 1: life threatening incident (such as cardiac or respiratory arrest)
+- Category 2: emergency incident (such as stroke or chest pain)
+- Category 3: urgent incident (such as an uncomplicated diabetic issue)
+- Category 4: less urgent incident (stable clinical cases)
 
 **Questions:**
 
-- 1.1) Can you describe the trends you are seeing in the response times data?
+- 1.1) Can you describe the trends in ambulance response times using the data we have provided?
 - 1.2) Can you briefly describe what the implications for patients and the health system are?
 - 1.3) What is the benefit of looking at the 90th percentile and not just the mean?
 - 1.4) How would you visualize this differently to better show the spread between the mean and 90th percentiles?
@@ -150,8 +150,8 @@ This is data on the number of people waiting for NHS elective (non-emergency) tr
 
 **Questions:**
 
-- 2.1) How would you represent these time trends differently to make comparisons easier between the four medical specialties?
-- 2.2) What approach would you take to summarise the change in the size of the total waiting list for each specialty between 2020 and 2021?
+- 2.1) How would you show these time trends differently to make comparisons between the four medical specialties easier?
+- 2.2) Can you summarise the change in the size of the waiting list for each specialty between 2020 and 2021?
 - 2.3) Based on what you are seeing here, why do you think the size of the total waiting list is increasing?
 
 ### Chart
