@@ -1,0 +1,191 @@
+---
+title: "Task for Data Science internship"
+author: "The Health Foundation, Data Analytics"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+    toc: true
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+#Global options
+knitr::opts_chunk$set(echo = TRUE)
+
+#Packages
+library(tidyverse)
+library(data.table)
+library(kableExtra)
+library(plotly)
+
+#Load data
+files <- list.files(path="Data/",pattern="*.csv") %>% paste0("Data/",.)
+amb_data_daily <- fread(files[1])
+amb_data_monthly <- fread(files[2])
+rtt_data <- fread(files[3])
+```
+
+## Instructions
+
+- This interview task is intended to assess your skills in analysing and summarising data. There are two tasks, each one using a different dataset.
+
+- We are not expecting you to spend more than **3-4 hours** on this task. Don't worry about making any plots or tables that you create look perfect. We are mainly interested to hear your thinking and any assumptions that you made. Please limit your answers to **300 words per task**.
+
+- Please submit your answers in one of the following formats:
+  - Word document, or equivalent such as Google Docs
+  - PDF
+  - Rmarkdown or Jupyter Notebook
+
+- Please email your answers to nav.gudra@health.org.uk by 4PM Friday 6 January 2023. 
+
+<!-- ## Task 1: Daily ambulance arrivals -->
+
+<!-- This is data on the daily number of ambulance arrivals in all acute NHS trusts in England, extracted from daily situation reports. -->
+
+<!-- *Draft questions:* -->
+
+<!-- - 1.1) How would you present this daily time series in a way that was easy to understand? -->
+<!-- - 1.2) Is there any missing data in this time series? If so, can you detect any patterns in the missingness? -->
+<!-- - 1.3) What approach would you use to compare the number of ambulance arrivals in 2021 and 2022? -->
+
+<!-- ### Chart -->
+
+<!-- ```{r task1.chart, echo=FALSE,warning=FALSE,fig.width=10,fig.height=5} -->
+<!-- chart1 <- amb_data_daily %>% -->
+<!--   filter(!is.na(arrivals)) %>% -->
+<!--   mutate(date=as.Date(date), -->
+<!--          arrivals=as.numeric(arrivals)) %>%  -->
+<!--   ggplot(., aes(x=date, -->
+<!--                 y=arrivals)) + -->
+<!--   geom_line(colour="red", lwd=1,group=1) + -->
+<!--   scale_x_date(date_breaks = "1 month", date_labels = "%b %y") + -->
+<!--   scale_y_continuous(labels=scales::comma) + -->
+<!--   labs(x="Date", y="Ambulance arrivals", -->
+<!--        title="Ambulance arrivals", -->
+<!--        subtitle="Source: NHS winter situation reports") + -->
+<!--   theme_bw() + -->
+<!--   theme( -->
+<!--     axis.ticks=element_line(size=0.4), -->
+<!--     plot.background=element_blank(), -->
+<!--     panel.border=element_blank(), -->
+<!--     axis.text.x=element_text(angle=45, hjust=1) -->
+<!--   ) -->
+
+<!-- ggplotly(chart1) -->
+<!-- ``` -->
+
+<!-- [Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/amb-data-daily.csv) (Source: NHS England Urgent and Emergency Care Daily Situation Reports) -->
+
+<!-- ### Data -->
+
+<!-- ```{r task1.data, echo=FALSE,warning=FALSE} -->
+<!-- amb_data_daily %>% -->
+<!--   filter(!is.na(arrivals)) %>%  -->
+<!--   kable %>% -->
+<!--   kable_styling(bootstrap_options = c("striped", "hover")) %>% -->
+<!--   row_spec(0, bold = T, color = "black", background = "white") %>%  -->
+<!--   scroll_box(width = "100%", height = "400px") -->
+<!-- ``` -->
+
+## Task 1: Monthly ambulance indicators
+
+This is data on the distribution of ambulance response times in England (mean and 90th percentile). Response times are reported separately for each type of incident, based on the following categories:
+
+Category 1: life threatening incident (such as cardiac or respiratory arrest)
+Category 2: emergency incident (such as stroke or chest pain)
+Category 3: urgent incident (such as an uncomplicated diabetic issue)
+Category 4: less urgent incident (stable clinical cases)
+
+**Questions:**
+
+- 1.1) Can you describe the trends you are seeing in the response times data?
+- 1.2) Can you briefly describe what the implications for patients and the health system are?
+- 1.3) What is the benefit of looking at the 90th percentile and not just the mean?
+- 1.4) How would you visualize this differently to better show the spread between the mean and 90th percentiles?
+
+### Chart
+
+```{r task2.chart, echo=FALSE,warning=FALSE,fig.width=10,fig.height=5}
+chart2 <- amb_data_monthly %>%
+  filter(org_name=="England (Average of all regions)") %>%
+  pivot_longer(!c("date","org_name","metric"), names_to = "category", values_to = "response_time") %>%
+  ggplot(., aes(x=date, y=response_time, group=category, color=category)) +
+  facet_wrap(~ metric) +
+  geom_line() +
+  scale_x_date(date_breaks = "6 month", date_labels = "%b %y") +
+  scale_y_continuous(labels=scales::comma) +
+  scale_color_brewer(palette="Spectral") +
+  labs(x="Date", y="Average response time (minutes)",
+       title="Ambulance response times",
+       subtitle="Source: NHS England Ambulance Quality Indicators",
+       col="Emergency category") +
+  theme_bw() +
+  theme(
+    axis.ticks=element_line(size=0.4),
+    plot.background=element_blank(),
+    panel.border=element_blank(),
+    axis.text.x=element_text(angle=45, hjust=1)
+  )
+
+ggplotly(chart2)
+```
+
+[Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/amb-data.csv) (Source: NHS England Ambulance Quality Indicators)
+
+### Data
+
+```{r task2.data, echo=FALSE,warning=FALSE}
+amb_data_monthly %>%
+  filter(org_name=="England (Average of all regions)") %>% 
+  kable %>%
+  kable_styling(bootstrap_options = c("striped", "hover")) %>%
+  row_spec(0, bold = T, color = "black", background = "white") %>% 
+  scroll_box(width = "100%", height = "400px")
+```
+
+## Task 2: Elective care backlog
+
+This is data on the number of people waiting for NHS elective (non-emergency) treatment by a specialist. Each month, this data series reports the number of people waiting for specialist treatment ("total waiting list"), newly entering the waiting list after a GP referral ("new on waiting list") and starting their treatment ("started treatment").
+
+**Questions:**
+
+- 2.1) How would you represent these time trends differently to make comparisons easier between the four medical specialties?
+- 2.2) What approach would you take to summarise the change in the size of the total waiting list for each specialty between 2020 and 2021?
+- 2.3) Based on what you are seeing here, why do you think the size of the total waiting list is increasing?
+
+### Chart
+
+```{r task3.chart, echo=FALSE,warning=FALSE,fig.width=10,fig.height=5}
+chart3 <- rtt_data %>%
+  ggplot(., aes(x=period, y=total, group=type, color=type)) +
+  facet_wrap(~ specialty, scales = "free_y") +
+  geom_line() +
+  scale_x_date(date_breaks = "6 month", date_labels = "%b %y") +
+  scale_y_continuous(labels=scales::comma) +
+  labs(x="Date", y="Number of patients",
+       title="Waiting list for elective procedures",
+       subtitle="Source: NHS England Referral to Treatment Waiting Times",
+       col="Patients") +
+  theme_bw() +
+  theme(
+    axis.ticks=element_line(size=0.4),
+    plot.background=element_blank(),
+    panel.border=element_blank(),
+    axis.text.x=element_text(angle=45, hjust=1)
+  )
+
+ggplotly(chart3)
+```
+
+[Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/rtt-data.csv) (Source: NHS England Consultant-led Referral to Treatment Waiting Times)
+
+### Data
+
+```{r task3.data, echo=FALSE,warning=FALSE}
+rtt_data %>% 
+  kable %>%
+  kable_styling(bootstrap_options = c("striped", "hover")) %>%
+  row_spec(0, bold = T, color = "black", background = "white") %>% 
+  scroll_box(width = "100%", height = "400px")
+```
