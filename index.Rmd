@@ -28,16 +28,19 @@ rtt_data <- fread(files[3])
 
 ## Instructions
 
-- This interview task is intended to assess your skills in analysing and summarising data. There are two tasks, each one using a different dataset.
+-   This interview task is intended to assess your skills in analysing and summarising data. There are two tasks, each one using a different dataset.
 
-- We are not expecting you to spend more than **3-4 hours** on this task. Don't worry about making any plots or tables that you create look perfect. We are mainly interested to hear your thinking and any assumptions that you made. Please limit your answers to **300 words per task**.
+-   We are not expecting you to spend more than **3-4 hours** on this task. Don't worry about making any plots or tables that you create look perfect. We are mainly interested to hear your thinking and any assumptions that you made. Please limit your answers to **300 words per task**.
 
-- Please submit your answers in one of the following formats:
-  - Word document, or equivalent such as Google Docs
-  - PDF
-  - Rmarkdown or Jupyter Notebook
+-   Please prepare to spend the first 5-10 minutes of the interview talking us through your analysis.
 
-- Please email your answers to nav.gudra@health.org.uk by **4PM Friday 6 January 2023**. 
+-   Please submit your answers in one of the following formats:
+
+    -   Word document, or equivalent such as Google Docs
+    -   PDF
+    -   Rmarkdown or Jupyter Notebook
+
+-   Please email your answers to [nav.gudra\@health.org.uk](mailto:nav.gudra@health.org.uk){.email} by **4PM Friday 6 January 2023**.
 
 <!-- ## Task 1: Daily ambulance arrivals -->
 
@@ -46,33 +49,55 @@ rtt_data <- fread(files[3])
 <!-- *Draft questions:* -->
 
 <!-- - 1.1) How would you present this daily time series in a way that was easy to understand? -->
+
 <!-- - 1.2) Is there any missing data in this time series? If so, can you detect any patterns in the missingness? -->
+
 <!-- - 1.3) What approach would you use to compare the number of ambulance arrivals in 2021 and 2022? -->
 
 <!-- ### Chart -->
 
 <!-- ```{r task1.chart, echo=FALSE,warning=FALSE,fig.width=10,fig.height=5} -->
+
 <!-- chart1 <- amb_data_daily %>% -->
+
 <!--   filter(!is.na(arrivals)) %>% -->
+
 <!--   mutate(date=as.Date(date), -->
+
 <!--          arrivals=as.numeric(arrivals)) %>%  -->
+
 <!--   ggplot(., aes(x=date, -->
+
 <!--                 y=arrivals)) + -->
+
 <!--   geom_line(colour="red", lwd=1,group=1) + -->
+
 <!--   scale_x_date(date_breaks = "1 month", date_labels = "%b %y") + -->
+
 <!--   scale_y_continuous(labels=scales::comma) + -->
+
 <!--   labs(x="Date", y="Ambulance arrivals", -->
+
 <!--        title="Ambulance arrivals", -->
+
 <!--        subtitle="Source: NHS winter situation reports") + -->
+
 <!--   theme_bw() + -->
+
 <!--   theme( -->
+
 <!--     axis.ticks=element_line(size=0.4), -->
+
 <!--     plot.background=element_blank(), -->
+
 <!--     panel.border=element_blank(), -->
+
 <!--     axis.text.x=element_text(angle=45, hjust=1) -->
+
 <!--   ) -->
 
 <!-- ggplotly(chart1) -->
+
 <!-- ``` -->
 
 <!-- [Download data](https://github.com/HFAnalyticsLab/data-task/blob/main/Data/amb-data-daily.csv) (Source: NHS England Urgent and Emergency Care Daily Situation Reports) -->
@@ -80,29 +105,36 @@ rtt_data <- fread(files[3])
 <!-- ### Data -->
 
 <!-- ```{r task1.data, echo=FALSE,warning=FALSE} -->
+
 <!-- amb_data_daily %>% -->
+
 <!--   filter(!is.na(arrivals)) %>%  -->
+
 <!--   kable %>% -->
+
 <!--   kable_styling(bootstrap_options = c("striped", "hover")) %>% -->
+
 <!--   row_spec(0, bold = T, color = "black", background = "white") %>%  -->
+
 <!--   scroll_box(width = "100%", height = "400px") -->
+
 <!-- ``` -->
 
 ## Task 1: Monthly ambulance indicators
 
 This is data on the distribution of ambulance response times in England (mean and 90th percentile). Response times are reported separately for each type of incident, based on the following categories:
 
-- Category 1: life threatening incident (such as cardiac or respiratory arrest)
-- Category 2: emergency incident (such as stroke or chest pain)
-- Category 3: urgent incident (such as an uncomplicated diabetic issue)
-- Category 4: less urgent incident (stable clinical cases)
+-   Category 1: life threatening incident (such as cardiac or respiratory arrest)
+-   Category 2: emergency incident (such as stroke or chest pain)
+-   Category 3: urgent incident (such as an uncomplicated diabetic issue)
+-   Category 4: less urgent incident (stable clinical cases)
 
 **Questions:**
 
-- 1.1) Can you describe the trends in ambulance response times using the data we have provided?
-- 1.2) Can you briefly describe what the implications for patients and the health system are?
-- 1.3) What is the benefit of looking at the 90th percentile and not just the mean?
-- 1.4) How would you visualize this differently to better show the spread between the mean and 90th percentiles?
+-   1.1) Can you describe the trends in ambulance response times using the data we have provided?
+-   1.2) Can you briefly describe what the implications for patients and the health system are?
+-   1.3) What is the benefit of looking at the 90th percentile and not just the mean?
+-   1.4) How would you visualize this differently to better show the spread between the mean and 90th percentiles?
 
 ### Chart
 
@@ -150,9 +182,9 @@ This is data on the number of people waiting for NHS elective (non-emergency) tr
 
 **Questions:**
 
-- 2.1) How would you show these time trends differently to make comparisons between the four medical specialties easier?
-- 2.2) Can you summarise the change in the size of the waiting list for each specialty between 2020 and 2021?
-- 2.3) Based on what you are seeing here, why do you think the size of the total waiting list is increasing?
+-   2.1) How would you show these time trends differently to make comparisons between the four medical specialties easier?
+-   2.2) Can you summarise the change in the size of the waiting list for each specialty between 2020 and 2021?
+-   2.3) Based on what you are seeing here, why do you think the size of the total waiting list is increasing?
 
 ### Chart
 
